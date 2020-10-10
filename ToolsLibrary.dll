@@ -1,0 +1,2844 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tools>
+
+<FRPByPassAPK>
+  <FRPByPass>Apex_Launcher.apk</FRPByPass>
+  <FRPByPass>FRP_Bypass_Android(5,6,8,9,10).apk</FRPByPass>
+  <FRPByPass>FRP_Bypass_Android(7,9,10).apk</FRPByPass>
+</FRPByPassAPK>
+
+<RootPackges>
+<SuperSuTool>
+  <SuperSu>SuperSU-v2.82-SR5.zip</SuperSu>
+  <SuperSu>SuperSU-v2.82.zip</SuperSu>
+  <SuperSu>SuperSU-v2.79.zip</SuperSu>
+  <SuperSu>SuperSU-v2.46.zip</SuperSu>
+  <SuperSu>SuperSU-v2.82.apk</SuperSu>
+</SuperSuTool>
+<MagiskTool>
+  <Magisk>Magisk-v20.4.zip</Magisk>
+  <Magisk>MagiskManager-v7.5.1.apk</Magisk>
+</MagiskTool>
+</RootPackges>
+
+<SamSungTools>
+<Odin3>
+  <Odin_ver>Odin3_v3.14.4</Odin_ver>
+  <Odin_ver>Odin3_v3.14.1</Odin_ver>
+  <Odin_ver>Odin3_v3.13.3</Odin_ver>
+  <Odin_ver>Odin3_v3.13.1</Odin_ver>
+  <Odin_ver>Odin3_v3.12.7</Odin_ver>
+  <Odin_ver>Odin3_v3.12.5</Odin_ver>
+  <Odin_ver>Odin3_v3.12.4</Odin_ver>
+  <Odin_ver>Odin3_v3.12.3</Odin_ver>
+  <Odin_ver>Odin3_v3.11.2</Odin_ver>
+  <Odin_ver>Odin3_v3.11.1</Odin_ver>
+  <Odin_ver>Odin3_v3.10.7</Odin_ver>
+  <Odin_ver>Odin3_v3.10.6</Odin_ver>
+  <Odin_ver>Odin3_v3.10.5</Odin_ver>
+  <Odin_ver>Odin3_v3.09</Odin_ver>
+  <Odin_ver>Odin3_v3.07</Odin_ver>
+  <Odin_ver>Odin3_v3.06</Odin_ver>
+  <Odin_ver>Odin3_v3.04</Odin_ver>
+  <Odin_ver>Odin3_v1.86</Odin_ver>
+  <Odin_ver>Odin3_v1.83</Odin_ver>
+  <Odin_ver>Odin3_v1.82</Odin_ver>
+  <Odin_ver>Odin3_v1.70</Odin_ver>
+  </Odin3>
+<SamsungUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.7.23</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.7.17</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.7.11</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.5.65</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.5.63</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.5.61</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.5.60</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.5.59</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.5.55</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.5.51</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.5.49</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.5.45</SamUsbDriver>
+  <SamUsbDriver>Samsung_USB_Driver_v1.5.33</SamUsbDriver>
+</SamsungUsbDriver>
+</SamSungTools>
+
+<SonyTools>
+<Xperia_FlashTool>
+  <Xperia_FlashTool_Ver>Sony_Mobile_Flasher_v0.9.28.0(Latest)</Xperia_FlashTool_Ver>
+</Xperia_FlashTool>
+</SonyTools>
+
+<MediaTeck_Tools> 
+
+<Agenew_FlashTool>
+  <AgenewFlashTool_Ver>Agenew_FlashTool_v1912</AgenewFlashTool_Ver>
+  <AgenewFlashTool_Ver>Agenew_FlashTool_v1848</AgenewFlashTool_Ver>
+  <AgenewFlashTool_Ver>Agenew_FlashTool_v1804</AgenewFlashTool_Ver>
+  <AgenewFlashTool_Ver>Agenew_FlashTool_v1728</AgenewFlashTool_Ver>
+  <AgenewFlashTool_Ver>Agenew_FlashTool_v1620</AgenewFlashTool_Ver>
+</Agenew_FlashTool>
+<BirdA_FlashTool>
+  <BirdAFlashTool_Ver>BirdA_FlashTool_v1620</BirdAFlashTool_Ver>
+  <BirdAFlashTool_Ver>BirdA_FlashTool_v1524</BirdAFlashTool_Ver>
+  <BirdAFlashTool_Ver>BirdA_FlashTool_v1512</BirdAFlashTool_Ver>
+  <BirdAFlashTool_Ver>BirdA_FlashTool_v1452</BirdAFlashTool_Ver>
+  <BirdAFlashTool_Ver>BirdA_FlashTool_v1432</BirdAFlashTool_Ver>
+  <BirdAFlashTool_Ver>BirdA_FlashTool_v1428</BirdAFlashTool_Ver>
+  <BirdAFlashTool_Ver>BirdA_FlashTool_v1408</BirdAFlashTool_Ver>
+  <BirdAFlashTool_Ver>BirdA_FlashTool_v1348</BirdAFlashTool_Ver>
+  <BirdAFlashTool_Ver>BirdA_FlashTool_v1336</BirdAFlashTool_Ver>
+  <BirdAFlashTool_Ver>BirdA_FlashTool_v1316</BirdAFlashTool_Ver>
+</BirdA_FlashTool>
+<BirdA_MDT_Tool>
+  <BirdAMDT_Ver>BirdA_MDT_v1620</BirdAMDT_Ver>
+  <BirdAMDT_Ver>BirdA_MDT_v1524</BirdAMDT_Ver>
+  <BirdAMDT_Ver>BirdA_MDT_v1512</BirdAMDT_Ver>
+  <BirdAMDT_Ver>BirdA_MDT_v1452</BirdAMDT_Ver>
+  <BirdAMDT_Ver>BirdA_MDT_v1432</BirdAMDT_Ver>
+  <BirdAMDT_Ver>BirdA_MDT_v1428</BirdAMDT_Ver>
+  <BirdAMDT_Ver>BirdA_MDT_v1408</BirdAMDT_Ver>
+  <BirdAMDT_Ver>BirdA_MDT_v1348</BirdAMDT_Ver>
+  <BirdAMDT_Ver>BirdA_MDT_v1336</BirdAMDT_Ver>
+  <BirdAMDT_Ver>BirdA_MDT_v1316</BirdAMDT_Ver>
+</BirdA_MDT_Tool>
+<SP_Flash_Tool>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1952</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1944</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1936</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1924</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1920</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1916</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1912</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1904</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1844</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1836</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1828</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1824</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1820</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1816</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1812</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1804</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1752</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1744</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1736</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1728</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1724</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1720</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1716</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1712</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1708</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1648</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1644</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1640</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1636</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1632</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1628</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1624</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1620</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1616</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1612</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1604</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1552</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1548</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1532</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1528</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1524</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1520</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1516</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1512</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1504</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1425</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1436</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1420</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1416</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1408</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1352</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v5.1343</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1344</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1336</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1332</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1328</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1326</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1324</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1316</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1312</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1308</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1304</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1252</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1250</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1248</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1238</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1224</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1222</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1216</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1210</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1206</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v3.1108</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v2.1140</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v2.1134</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v2.1133</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v1.1110</SPFlashTool_Ver>
+  <SPFlashTool_Ver>SP_Flash_Tool_v1.1052</SPFlashTool_Ver>
+</SP_Flash_Tool>
+<SP_MDT_Tool>
+  <SPMDTool_Ver>SP_MDT_v5.1432</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v5.1340</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1916</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1904</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1844</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1836</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1832</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1828</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1824</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1820</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1812</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1804</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1752</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1748</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1744</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1732</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1728</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1724</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1716</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1712</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1708</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1652</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1648</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1644</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1636</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1632</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1624</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1620</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1616</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1604</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1552</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1548</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1544</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1540</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1532</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1516</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1528</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1520</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1512</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1504</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1452</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1444</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1436</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1428</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1424</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1420</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1408</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1332</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1304</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1228</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1108</SPMDTool_Ver>
+  <SPMDTool_Ver>SP_MDT_v3.1032</SPMDTool_Ver>
+</SP_MDT_Tool>
+
+</MediaTeck_Tools>
+
+<SpreadTrumTools>
+
+<SPUpgrade_Tool>
+  <SPUpgrade_Ver>SPUpgrade_v2.9.3</SPUpgrade_Ver>
+  <SPUpgrade_Ver>SPUpgrade_v2.9.2</SPUpgrade_Ver>
+</SPUpgrade_Tool>
+<SPD_Dloader_Tool>
+  <SPDDloader_Ver>SPD_Dloader_v2.9.3</SPDDloader_Ver>
+  <SPDDloader_Ver>SPD_Dloader_v2.9.2</SPDDloader_Ver>
+</SPD_Dloader_Tool>
+<SPD_Factory_Tool>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R23.19.4001</SPDFactoryTool_Ver>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R23.0.0001</SPDFactoryTool_Ver>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R21.0.0001</SPDFactoryTool_Ver>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R19.17.4301</SPDFactoryTool_Ver>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R3.0.0001</SPDFactoryTool_Ver>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R2.9.9015</SPDFactoryTool_Ver>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R2.9.9009</SPDFactoryTool_Ver>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R2.9.9008</SPDFactoryTool_Ver>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R2.9.9001</SPDFactoryTool_Ver>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R2.9.7007</SPDFactoryTool_Ver>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R2.9.7006</SPDFactoryTool_Ver>
+  <SPDFactoryTool_Ver>SPD_Factory_Tool_R2.9.7003</SPDFactoryTool_Ver>
+</SPD_Factory_Tool>
+<SPD_Research_Tool>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R23.19.5101</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R23.19.3301</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R23.0.0001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R22.19.1301</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R21.0.0001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R19.0.0001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R17.0.0001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R8.0.0001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R7.0.0001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R6.0.0001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R4.0.0001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R3.15.4901</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R3.0.900</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R3.0.0001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.10.1003</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.10.1001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.9017</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.9016</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.9015</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.9009</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.9008</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.9005</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.9001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.8005</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.8004</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.7017</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.7009</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.7008</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.7007</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.7006</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.7003</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.7002</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.7001</SPDResearchTool_Ver>
+  <SPDResearchTool_Ver>SPD_Research_Tool_R2.9.6011</SPDResearchTool_Ver>
+</SPD_Research_Tool>
+<SPD_Upgrade_Tool>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R23.19.4001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R23.0.0001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R22.0.0001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R21.0.0001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R20.0.0001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R19.18.0001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R19.0.0001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R17.17.1202</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R17.0.0001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R4.0.0001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R3.15.4901</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R3.0.0001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.10.1003</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.9015</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.9009</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.9008</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.9005</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.9001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.7008</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.7007</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.7006</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.7003</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.7001</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.6004</SPDUpgradeTool_Ver>
+  <SPDUpgradeTool_Ver>SPD_Upgrade_Tool_R2.9.5005</SPDUpgradeTool_Ver>
+</SPD_Upgrade_Tool>
+
+</SpreadTrumTools>
+
+<Qualcomm_Tools>
+<LenovoDownloader_Tool>
+  <LenovoDownloader_Ver>Lenovo_Downloader_v1.0.3</LenovoDownloader_Ver>
+  <LenovoDownloader_Ver>Lenovo_Downloader_v1.0.2</LenovoDownloader_Ver>
+</LenovoDownloader_Tool>
+<QualFast_Tool>
+  <QualFast_Ver>Qualfast_v1.0.2</QualFast_Ver>
+  <QualFast_Ver>Qualfast_v1.0.1</QualFast_Ver>
+</QualFast_Tool>
+<QcomDloader>
+  <QcomDloader_Ver>QcomDloader_v1.3.2.0</QcomDloader_Ver>
+  <QcomDloader_Ver>QcomDloader_v1.3.0.2</QcomDloader_Ver>
+  <QcomDloader_Ver>QcomDloader_v1.0.6</QcomDloader_Ver>
+  <QcomDloader_Ver>QcomDloader_v1.0.3</QcomDloader_Ver>
+  <QcomDloader_Ver>QcomDloader_v1.0.2</QcomDloader_Ver>
+</QcomDloader>
+<QFlash_Tool>
+  <QFlash_Ver>QFlash_Tool_v9.1.6</QFlash_Ver>
+  <QFlash_Ver>QFlash_Tool_v6.1.3</QFlash_Ver>
+  <QFlash_Ver>QFlash_Tool_v5.0.2</QFlash_Ver>
+</QFlash_Tool>
+<QFIL_Tool>
+  <QFIL_Ver>QFIL_Tool_v2.0.2.3</QFIL_Ver>
+  <QFIL_Ver>QFIL_Tool_v2.0.1.9</QFIL_Ver>
+  <QFIL_Ver>QFIL_Tool_v2.0.1.8</QFIL_Ver>
+  <QFIL_Ver>QFIL_Tool_v2.0.1.7</QFIL_Ver>
+  <QFIL_Ver>QFIL_Tool_v2.0.1.1</QFIL_Ver>
+  <QFIL_Ver>QFIL_Tool_v2.0.0.5</QFIL_Ver>
+  <QFIL_Ver>QFIL_Tool_v2.0.0.4</QFIL_Ver>
+  <QFIL_Ver>QFIL_Tool_v2.0.0.3</QFIL_Ver>
+  <QFIL_Ver>QFIL_Tool_v2.0.0.2</QFIL_Ver>
+  <QFIL_Ver>QFIL_Tool_v2.0.0.0</QFIL_Ver>
+  <QFIL_Ver>QFIL_Tool_v1.0.0.3</QFIL_Ver>
+  <QFIL_Ver>QFIL_Tool_v2.0.0.2</QFIL_Ver>
+</QFIL_Tool>
+<QPST_Tool>
+  <QPST_Ver>QPST_v2.7.480(Latest)</QPST_Ver>
+</QPST_Tool>
+<MiFlash_Tool>
+  <MiFlashTool_Ver>MiFlash20191206</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20191111</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20191030</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20181115</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20180528</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20171212</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20170425</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20161222</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20160830</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20160401</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20151028</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20150731</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20150601</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20141107</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20140509</MiFlashTool_Ver>
+  <MiFlashTool_Ver>MiFlash20130420</MiFlashTool_Ver>
+</MiFlash_Tool>
+</Qualcomm_Tools>
+
+<APPLE_Devices>
+
+<Ipod>
+  <IpodDevice>iPod touch 1G</IpodDevice>
+  <IpodDevice>iPod touch 2G</IpodDevice>
+  <IpodDevice>iPod touch 3</IpodDevice>
+  <IpodDevice>iPod touch 4</IpodDevice>
+  <IpodDevice>iPod touch 5</IpodDevice>
+  <IpodDevice>iPod touch 6</IpodDevice>
+  <IpodModel>A1213</IpodModel>
+  <IpodModel>A1288</IpodModel>
+  <IpodModel>A1318</IpodModel>
+  <IpodModel>A1319</IpodModel>
+  <IpodModel>A1367</IpodModel>
+  <IpodModel>A1421</IpodModel>
+  <IpodModel>A1509</IpodModel>
+  <IpodModel>A1574</IpodModel>
+</Ipod>
+<Iphone>
+ <IphoneDevice>iPhone 2G</IphoneDevice>
+  <IphoneDevice>iPhone 3G</IphoneDevice>
+  <IphoneDevice>iPhone 3G[S]</IphoneDevice>
+  <IphoneDevice>iPhone 4 (GSM)</IphoneDevice>
+  <IphoneDevice>iPhone 4 (GSM / 2012)</IphoneDevice>
+  <IphoneDevice>iPhone 4 (CDMA)</IphoneDevice>
+  <IphoneDevice>iPhone 4[S]</IphoneDevice>
+  <IphoneDevice>iPhone 5 (GSM)</IphoneDevice>
+  <IphoneDevice>iPhone 5 (Global)</IphoneDevice>
+  <IphoneDevice>iPhone 5c (GSM)</IphoneDevice>
+  <IphoneDevice>iPhone 5c (Global)</IphoneDevice>
+  <IphoneDevice>iPhone 5s (GSM)</IphoneDevice>
+  <IphoneDevice>iPhone 5s (Global)</IphoneDevice>
+  <IphoneDevice>iPhone 6</IphoneDevice>
+  <IphoneDevice>iPhone 6+</IphoneDevice>
+  <IphoneDevice>iPhone 6s</IphoneDevice>
+  <IphoneDevice>iPhone 6s+</IphoneDevice>
+  <IphoneDevice>iPhone SE</IphoneDevice>
+  <IphoneDevice>iPhone 7 (GSM)</IphoneDevice>
+  <IphoneDevice>iPhone 7 (Global)</IphoneDevice>
+  <IphoneDevice>iPhone 7 Plus (GSM)</IphoneDevice>
+  <IphoneDevice>iPhone 7 Plus (Global)</IphoneDevice>
+  <IphoneDevice>iPhone 8 (GSM)</IphoneDevice>
+  <IphoneDevice>iPhone 8 (Global)</IphoneDevice>
+  <IphoneDevice>iPhone 8 Plus (GSM)</IphoneDevice>
+  <IphoneDevice>iPhone 8 Plus (Global)</IphoneDevice>
+  <IphoneDevice>iPhone X (GSM)</IphoneDevice>
+  <IphoneDevice>iPhone X (Global)</IphoneDevice>
+  <IphoneDevice>iPhone XS</IphoneDevice>
+  <IphoneDevice>iPhone XS Max</IphoneDevice>
+  <IphoneDevice>iPhone XS Max (China)</IphoneDevice>
+  <IphoneDevice>iPhone XR</IphoneDevice>
+  <IphoneDevice>iPhone 11</IphoneDevice>
+  <IphoneDevice>iPhone 11 Pro</IphoneDevice>
+  <IphoneDevice>iPhone 11 Pro Max</IphoneDevice>
+  <IphoneModel>A1203</IphoneModel>
+  <IphoneModel>A1241</IphoneModel>
+  <IphoneModel>A1303</IphoneModel>
+  <IphoneModel>A1324</IphoneModel>
+  <IphoneModel>A1325</IphoneModel>
+  <IphoneModel>A1332</IphoneModel>
+  <IphoneModel>A1349</IphoneModel>
+  <IphoneModel>A1387</IphoneModel>
+  <IphoneModel>A1428</IphoneModel>
+  <IphoneModel>A1429</IphoneModel>
+  <IphoneModel>A1431</IphoneModel>
+  <IphoneModel>A1442</IphoneModel>
+  <IphoneModel>A1453</IphoneModel>
+  <IphoneModel>A1456</IphoneModel>
+  <IphoneModel>A1457</IphoneModel>
+  <IphoneModel>A1507</IphoneModel>
+  <IphoneModel>A1516</IphoneModel>
+  <IphoneModel>A1518</IphoneModel>
+  <IphoneModel>A1522</IphoneModel>
+  <IphoneModel>A1524</IphoneModel>
+  <IphoneModel>A1528</IphoneModel>
+  <IphoneModel>A1529</IphoneModel>
+  <IphoneModel>A1530</IphoneModel>
+  <IphoneModel>A1532</IphoneModel>
+  <IphoneModel>A1533</IphoneModel>
+  <IphoneModel>A1549</IphoneModel>
+  <IphoneModel>A1586</IphoneModel>
+  <IphoneModel>A1589</IphoneModel>
+  <IphoneModel>A1593</IphoneModel>
+  <IphoneModel>A1633</IphoneModel>
+  <IphoneModel>A1634</IphoneModel>
+  <IphoneModel>A1660</IphoneModel>
+  <IphoneModel>A1661</IphoneModel>
+  <IphoneModel>A1662</IphoneModel>
+  <IphoneModel>A1687</IphoneModel>
+  <IphoneModel>A1688</IphoneModel>
+  <IphoneModel>A1690</IphoneModel>
+  <IphoneModel>A1691</IphoneModel>
+  <IphoneModel>A1699</IphoneModel>
+  <IphoneModel>A1700</IphoneModel>
+  <IphoneModel>A1723</IphoneModel>
+  <IphoneModel>A1724</IphoneModel>
+  <IphoneModel>A1778</IphoneModel>
+  <IphoneModel>A1779</IphoneModel>
+  <IphoneModel>A1780</IphoneModel>
+  <IphoneModel>A1784</IphoneModel>
+  <IphoneModel>A1785</IphoneModel>
+  <IphoneModel>A1786</IphoneModel>
+  <IphoneModel>A1863</IphoneModel>
+  <IphoneModel>A1864</IphoneModel>
+  <IphoneModel>A1865</IphoneModel>
+  <IphoneModel>A1897</IphoneModel>
+  <IphoneModel>A1898</IphoneModel>
+  <IphoneModel>A1899</IphoneModel>
+  <IphoneModel>A1901</IphoneModel>
+  <IphoneModel>A1902</IphoneModel>
+  <IphoneModel>A1905</IphoneModel>
+  <IphoneModel>A1906</IphoneModel>
+  <IphoneModel>A1907</IphoneModel>
+  <IphoneModel>A1920</IphoneModel>
+  <IphoneModel>A1921</IphoneModel>
+  <IphoneModel>A1984</IphoneModel>
+  <IphoneModel>A2097</IphoneModel>
+  <IphoneModel>A2098</IphoneModel>
+  <IphoneModel>A2100</IphoneModel>
+  <IphoneModel>A2101</IphoneModel>
+  <IphoneModel>A2102</IphoneModel>
+  <IphoneModel>A2104</IphoneModel>
+  <IphoneModel>A2105</IphoneModel>
+  <IphoneModel>A2106</IphoneModel>
+  <IphoneModel>A2108</IphoneModel>
+  <IphoneModel>A2160</IphoneModel>
+  <IphoneModel>A2161</IphoneModel>
+  <IphoneModel>A2111</IphoneModel>
+  <IphoneModel>A2215</IphoneModel>
+  <IphoneModel>A2217</IphoneModel>
+  <IphoneModel>A2218</IphoneModel>
+  <IphoneModel>A2220</IphoneModel>
+  <IphoneModel>A2221</IphoneModel>
+  <IphoneModel>A2223</IphoneModel>
+</Iphone>
+<Ipad>
+  <IpadDevice>iPad 1</IpadDevice>
+  <IpadDevice>iPad 2 (WiFi)</IpadDevice>
+  <IpadDevice>iPad 2 (GSM)</IpadDevice>
+  <IpadDevice>iPad 2 (CDMA)</IpadDevice>
+  <IpadDevice>iPad 2 (Mid 2012)</IpadDevice>
+  <IpadDevice>iPad 3 (WiFi)</IpadDevice>
+  <IpadDevice>iPad 3 (GSM)</IpadDevice>
+  <IpadDevice>iPad 3 (CDMA)</IpadDevice>
+  <IpadDevice>iPad 4 (WiFi)</IpadDevice>
+  <IpadDevice>iPad 4 (GSM)</IpadDevice>
+  <IpadDevice>iPad 4 (Global)</IpadDevice>
+  <IpadDevice>iPad 5 (WiFi)</IpadDevice>
+  <IpadDevice>iPad 5 (Cellular)</IpadDevice>
+  <IpadDevice>iPad 6 (WiFi)</IpadDevice>
+  <IpadDevice>iPad 6 (Cellular)</IpadDevice>
+  <IpadDevice>iPad 7 (WiFi)</IpadDevice>
+  <IpadDevice>iPad 7 (Cellular)</IpadDevice>
+  <IpadDevice>iPad Air (WiFi)</IpadDevice>
+  <IpadDevice>iPad Air (Cellular)</IpadDevice>
+  <IpadDevice>iPad Air (China)</IpadDevice>
+  <IpadDevice>iPad Air 2 (WiFi)</IpadDevice>
+  <IpadDevice>iPad Air 2 (Cellular)</IpadDevice>
+  <IpadDevice>iPad Air 3 (WiFi)</IpadDevice>
+  <IpadDevice>iPad Air 3 (Cellular)</IpadDevice>
+  <IpadDevice>iPad Mini (WiFi)</IpadDevice>
+  <IpadDevice>iPad Mini (GSM)</IpadDevice>
+  <IpadDevice>iPad Mini (Global)</IpadDevice>
+  <IpadDevice>iPad Mini 2 (WiFi)</IpadDevice>
+  <IpadDevice>iPad Mini 2 (Cellular)</IpadDevice>
+  <IpadDevice>iPad Mini 2 (China)</IpadDevice>
+  <IpadDevice>iPad Mini 3 (WiFi)</IpadDevice>
+  <IpadDevice>iPad Mini 3 (Cellular)</IpadDevice>
+  <IpadDevice>iPad Mini 3 (China)</IpadDevice>
+  <IpadDevice>iPad Mini 4 (WiFi)</IpadDevice>
+  <IpadDevice>iPad Mini 4 (Cellular)</IpadDevice>
+  <IpadDevice>iPad Mini 5 (WiFi)</IpadDevice>
+  <IpadDevice>iPad Mini 5 (Cellular)</IpadDevice>
+  <IpadDevice>iPad Pro 9.7-inch (WiFi)</IpadDevice>
+  <IpadDevice>iPad Pro 9.7-inch (Cellular)</IpadDevice>
+  <IpadDevice>iPad Pro (10.5-inch, WiFi)</IpadDevice>
+  <IpadDevice>iPad Pro (10.5-inch, Cellular)</IpadDevice>
+  <IpadDevice>iPad Pro 12.9-inch (WiFi)</IpadDevice>
+  <IpadDevice>iPad Pro 12.9-inch (Cellular)</IpadDevice>
+  <IpadDevice>iPad Pro 2 (12.9-inch, WiFi)</IpadDevice>
+  <IpadDevice>iPad Pro 2 (12.9-inch, Cellular)</IpadDevice>
+  <IpadDevice>iPad Pro 3 (11-inch, WiFi)</IpadDevice>
+  <IpadDevice>iPad Pro 3 (11-inch, Cellular)</IpadDevice>
+  <IpadDevice>iPad Pro 3 (11-inch, WiFi, 1TB Model)</IpadDevice>
+  <IpadDevice>iPad Pro 3 (11-inch, Cellular, 1TB Model)</IpadDevice>
+  <IpadDevice>iPad Pro 3 (12.9-inch, WiFi)</IpadDevice>
+  <IpadDevice>iPad Pro 3 (12.9-inch, Cellular)</IpadDevice>
+  <IpadDevice>iPad Pro 3 (12.9-inch, WiFi, 1TB Model)</IpadDevice>
+  <IpadDevice>iPad Pro 3 (12.9-inch, Cellular, 1TB Model)</IpadDevice>
+  <IpadModel>A1219</IpadModel>
+  <IpadModel>A1337</IpadModel>
+  <IpadModel>A1395</IpadModel>
+  <IpadModel>A1396</IpadModel>
+  <IpadModel>A1397</IpadModel>
+  <IpadModel>A1403</IpadModel>
+  <IpadModel>A1416</IpadModel>
+  <IpadModel>A1430</IpadModel>
+  <IpadModel>A1432</IpadModel>
+  <IpadModel>A1454</IpadModel>
+  <IpadModel>A1455</IpadModel>
+  <IpadModel>A1458</IpadModel>
+  <IpadModel>A1459</IpadModel>
+  <IpadModel>A1460</IpadModel>
+  <IpadModel>A1474</IpadModel>
+  <IpadModel>A1475</IpadModel>
+  <IpadModel>A1476</IpadModel>
+  <IpadModel>A1489</IpadModel>
+  <IpadModel>A1490</IpadModel>
+  <IpadModel>A1491</IpadModel>
+  <IpadModel>A1538</IpadModel>
+  <IpadModel>A1550</IpadModel>
+  <IpadModel>A1566</IpadModel>
+  <IpadModel>A1567</IpadModel>
+  <IpadModel>A1584</IpadModel>
+  <IpadModel>A1599</IpadModel>
+  <IpadModel>A1600</IpadModel>
+  <IpadModel>A1601</IpadModel>
+  <IpadModel>A1652</IpadModel>
+  <IpadModel>A1670</IpadModel>
+  <IpadModel>A1671</IpadModel>
+  <IpadModel>A1673</IpadModel>
+  <IpadModel>A1674</IpadModel>
+  <IpadModel>A1675</IpadModel>
+  <IpadModel>A1701</IpadModel>
+  <IpadModel>A1709</IpadModel>
+  <IpadModel>A1821</IpadModel>
+  <IpadModel>A1822</IpadModel>
+  <IpadModel>A1823</IpadModel>
+  <IpadModel>A1852</IpadModel>
+  <IpadModel>A1876</IpadModel>
+  <IpadModel>A1893</IpadModel>
+  <IpadModel>A1895</IpadModel>
+  <IpadModel>A1934</IpadModel>
+  <IpadModel>A1954</IpadModel>
+  <IpadModel>A1979</IpadModel>
+  <IpadModel>A1980</IpadModel>
+  <IpadModel>A1983</IpadModel>
+  <IpadModel>A2013</IpadModel>
+  <IpadModel>A2014</IpadModel>
+  <IpadModel>A2123</IpadModel>
+  <IpadModel>A2124</IpadModel>
+  <IpadModel>A2125</IpadModel>
+  <IpadModel>A2126</IpadModel>
+  <IpadModel>A2133</IpadModel>
+  <IpadModel>A2152</IpadModel>
+  <IpadModel>A2153</IpadModel>
+  <IpadModel>A2154</IpadModel>
+  <IpadModel>A2198</IpadModel>
+  <IpadModel>A2200</IpadModel>
+  <IpadModel>A2232</IpadModel>
+</Ipad>
+<AppleDataBase>
+  <AppleDevice Identifier="iPhone1,1" Name="iPhone 2G" Model="A1203" Storage="4GB,  8GB,  16GB" Color="Silver" Gsm="GSM" BoardConfig="M68AP" platform="S5L8900X" cpid="35072" bdid="0" />
+  <AppleDevice Identifier="iPhone1,2" Name="iPhone 3G" Model="A1324,  A1241" Storage="8GB,  16GB" Color="Black" Gsm="GSM" BoardConfig="N82AP" platform="S5L8900X" cpid="35072" bdid="4" />
+  <AppleDevice Identifier="iPhone2,1" Name="iPhone 3G[S]" Model="A1325,  A1303" Storage="8GB,  16GB,  32GB" Color="Black and White" Gsm="GSM" BoardConfig="N88AP" platform="S5L8920X" cpid="35104" bdid="0" />
+  <AppleDevice Identifier="iPhone3,1" Name="iPhone 4 (GSM)" Model="A1332" Storage="16GB,  32GB" Color="Black and White" Gsm="GSM" BoardConfig="N90AP" platform="S5L8930X" cpid="35120" bdid="0" />
+  <AppleDevice Identifier="iPhone3,2" Name="iPhone 4 (GSM / 2012)" Model="A1332" Storage="8GB" Color="Black and White" Gsm="GSM" BoardConfig="N90BAP" platform="S5L8930X" cpid="35120" bdid="4" />
+  <AppleDevice Identifier="iPhone3,3" Name="iPhone 4 (CDMA)" Model="A1349" Storage="16GB,  32GB" Color="Black and White" Gsm="CDMA" BoardConfig="N92AP" platform="S5L8930X" cpid="35120" bdid="6" />
+  <AppleDevice Identifier="iPhone4,1" Name="iPhone 4[S]" Model="A1431,  A1387" Storage="8GB,  16GB,  32GB,  64GB" Color="Black and White" Gsm="GLOBAL" BoardConfig="N94AP" platform="S5L8940X" cpid="35136" bdid="8" />
+  <AppleDevice Identifier="iPhone5,1" Name="iPhone 5 (GSM)" Model="A1428" Storage="16GB,  32GB,  64GB" Color="Black and White" Gsm="GSM" BoardConfig="N41AP" platform="S5L8950X" cpid="35152" bdid="0" />
+  <AppleDevice Identifier="iPhone5,2" Name="iPhone 5 (Global)" Model="A1429,  A1442" Storage="16GB,  32GB,  64GB" Color="Black and White" Gsm="GLOBAL" BoardConfig="N42AP" platform="S5L8950X" cpid="35152" bdid="2" />
+  <AppleDevice Identifier="iPhone5,3" Name="iPhone 5c (GSM)" Model="A1456,  A1532" Storage="8GB,  16GB,  32GB" Color="White, Blue, Pink, Green, Yellow" Gsm="GSM" BoardConfig="N48AP" platform="S5L8950X" cpid="35152" bdid="10" />
+  <AppleDevice Identifier="iPhone5,4" Name="iPhone 5c (Global)" Model="A1507,  A1516,  A1529" Storage="8GB,  16GB,  32GB" Color="White, Blue, Pink, Green, Yellow" Gsm="GLOBAL" BoardConfig="N49AP" platform="S5L8950X" cpid="35152" bdid="14" />
+  <AppleDevice Identifier="iPhone6,1" Name="iPhone 5s (GSM)" Model="A1453,  A1533" Storage="16GB,  32GB,  64GB" Color="Space Gray,  Silver, Gold" Gsm="GSM" BoardConfig="N51AP" platform="S5L8960X" cpid="35168" bdid="0" />
+  <AppleDevice Identifier="iPhone6,2" Name="iPhone 5s (Global)" Model="A1457,  A1518,  A1528, A1530" Storage="16GB,  32GB" Color="Black and White" Gsm="GLOBAL" BoardConfig="N53AP" platform="S5L8960X" cpid="35168" bdid="2" />
+  <AppleDevice Identifier="iPhone7,2" Name="iPhone 6" Model="A1549,  A1586,  A1589" Storage="16GB,  32GB,  64GB,  128GB" Color="Space Gray,  Silver, Gold" Gsm="GLOBAL" BoardConfig="N61AP" platform="T7000" cpid="28672" bdid="6" />
+  <AppleDevice Identifier="iPhone7,1" Name="iPhone 6+" Model="A1522,  A1524,  A1593" Storage="16GB,  64GB,  128GB" Color="Space Gray,  Silver, Gold" Gsm="GLOBAL" BoardConfig="N56AP" platform="T7000" cpid="28672" bdid="4" />
+  <AppleDevice Identifier="iPhone8,1" Name="iPhone 6s" Model="A1633,  A1688,  A1691,  A1700" Storage="16GB,  32GB,  64GB,  128GB" Color="Space Gray,  Silver, Gold, Rose Gold" Gsm="GLOBAL" BoardConfig="N71AP" platform="S8000" cpid="32768" bdid="4" />
+  <AppleDevice Identifier="iPhone8,2" Name="iPhone 6s+" Model="A1634,  A1687, A1690,  A1699" Storage="16GB,  64GB,  128GB" Color="Space Gray,  Silver, Gold, Rose Gold" Gsm="GLOBAL" BoardConfig="N66MAP" platform="S8003" cpid="32771" bdid="6" />
+  <AppleDevice Identifier="iPhone8,4" Name="iPhone SE" Model="A1723,  A1662,  A1724" Storage="16GB,  32GB,  64GB,  128GB" Color="Space Gray,  Silver, Gold, Rose Gold" Gsm="GLOBAL" BoardConfig="N69AP" platform="S8003" cpid="32771" bdid="2" />
+  <AppleDevice Identifier="iPhone9,3" Name="iPhone 7 (GSM)" Model="A1778" Storage="32GB,  128GB,  256GB" Color="Black, Jet Black, Gold, Rose Gold,  Silver, (PRODUCT)RED" Gsm="GSM" BoardConfig="D101AP" platform="T8010" cpid="32784" bdid="12" />
+  <AppleDevice Identifier="iPhone9,1" Name="iPhone 7 (Global)" Model="A1660,  A1780,  A1779" Storage="32GB,  128GB,  256GB" Color="Black, Jet Black, Gold, Rose Gold,  Silver, (PRODUCT)RED" Gsm="GLOBAL" BoardConfig="D10AP" platform="T8010" cpid="32784" bdid="8" />
+  <AppleDevice Identifier="iPhone9,4" Name="iPhone 7 Plus (GSM)" Model="A1784" Storage="32GB,  128GB,  256GB" Color="Black, Jet Black, Gold, Rose Gold,  Silver, (PRODUCT)RED" Gsm="GSM" BoardConfig="D111AP" platform="T8010" cpid="32784" bdid="14" />
+  <AppleDevice Identifier="iPhone9,2" Name="iPhone 7 Plus (Global)" Model="A1661,  A1786,  A1785" Storage="32GB,  128GB,  256GB" Color="Black, Jet Black, Gold, Rose Gold,  Silver, (PRODUCT)RED" Gsm="GLOBAL" BoardConfig="D11AP" platform="T8010" cpid="32784" bdid="10" />
+  <AppleDevice Identifier="iPhone10,4" Name="iPhone 8 (GSM)" Model="A1905" Storage="64GB,  256GB" Color="Gold,  Silver, Space Gray, (PRODUCT)RED" Gsm="GSM" BoardConfig="D201AP" platform="T8015" cpid="32789" bdid="10" />
+  <AppleDevice Identifier="iPhone10,1" Name="iPhone 8 (Global)" Model="A1863,  A1907,  A1906" Storage="64GB,  256GB" Color="Gold,  Silver, Space Gray, (PRODUCT)RED" Gsm="GLOBAL" BoardConfig="D20AP" platform="T8015" cpid="32789" bdid="2" />
+  <AppleDevice Identifier="iPhone10,5" Name="iPhone 8 Plus (GSM)" Model="A1897" Storage="64GB,  256GB" Color="Gold,  Silver, Space Gray, (PRODUCT)RED" Gsm="GSM" BoardConfig="D211AP" platform="T8015" cpid="32789" bdid="12" />
+  <AppleDevice Identifier="iPhone10,2" Name="iPhone 8 Plus (Global)" Model="A1864,  A1899,  A1898" Storage="64GB,  256GB" Color="Gold,  Silver, Space Gray, (PRODUCT)RED" Gsm="GLOBAL" BoardConfig="D21AP" platform="T8015" cpid="32789" bdid="4" />
+  <AppleDevice Identifier="iPhone10,6" Name="iPhone X (GSM)" Model="A1901" Storage="64GB,  256GB" Color="Silver, Space Gray" Gsm="GSM" BoardConfig="D221AP" platform="NULL" cpid="32789" bdid="14" />
+  <AppleDevice Identifier="iPhone10,3" Name="iPhone X (Global)" Model="A1865,  A1902" Storage="64GB,  256GB" Color="Silver, Space Gray" Gsm="GLOBAL" BoardConfig="D22AP" platform="NULL" cpid="32789" bdid="6" />
+  <AppleDevice Identifier="iPhone11,2" Name="iPhone XS" Model="A1920,  A2097,  A2098,  A2100" Storage="64GB,  256GB,  512GB" Color="Silver, Space Gray, Gold" Gsm="GLOBAL" BoardConfig="D321AP" platform="NULL" cpid="32800" bdid="14" />
+  <AppleDevice Identifier="iPhone11,6" Name="iPhone XS Max" Model="A1921,  A2101,  A2102" Storage="64GB,  256GB,  512GB" Color="Silver, Space Gray, Gold" Gsm="GLOBAL" BoardConfig="D331PAP" platform="NULL" cpid="32800" bdid="26" />
+  <AppleDevice Identifier="iPhone11,4" Name="iPhone XS Max (China)" Model="A2104" Storage="64GB,  256GB,  512GB" Color="Silver, Space Gray, Gold" Gsm="GLOBAL" BoardConfig="D331AP" platform="NULL" cpid="32800" bdid="10" />
+  <AppleDevice Identifier="iPhone11,8" Name="iPhone XR" Model="A1984,  A2105,  A2106,  A2108" Storage="64GB,  128GB,  256GB" Color="Black, White, Blue, Yellow, Coral, (PRODUCT)RED" Gsm="GLOBAL" BoardConfig="N841AP" platform="NULL" cpid="32800" bdid="12" />
+  <AppleDevice Identifier="iPhone12,1" Name="iPhone 11" Model="A2111,  A2221,  A2223" Storage="64GB,  128GB,  256GB" Color="Purple, Green, Yellow, Black, White, (PRODUCT)RED" Gsm="GLOBAL" BoardConfig="N104AP" platform="T8030" cpid="32816" bdid="4" />
+  <AppleDevice Identifier="iPhone12,3" Name="iPhone 11 Pro" Model="A2160,  A2215,  A2217" Storage="64GB,  256GB,  512GB" Color="Silver, Space Gray, Gold, Midnight Green" Gsm="GLOBAL" BoardConfig="D421AP" platform="NULL" cpid="32816" bdid="6" />
+  <AppleDevice Identifier="iPhone12,5" Name="iPhone 11 Pro Max" Model="A2161,  A2218,  A2220" Storage="64GB,  256GB,  512GB" Color="Silver, Space Gray, Gold, Midnight Green" Gsm="GLOBAL" BoardConfig="D421AP" platform="T8030" cpid="32816" bdid="6" />
+  <AppleDevice Identifier="iPod1,1" Name="iPod touch 1G" Model="A1213" Storage="8GB,  16GB,  32GB" Color="Black" Gsm="WIFI" BoardConfig="N45AP" platform="S5L8900X" cpid="35072" bdid="2" />
+  <AppleDevice Identifier="iPod2,1" Name="iPod touch 2G" Model="A1288,  A1319" Storage="8GB,  16GB,  32GB" Color="Black" Gsm="WIFI" BoardConfig="N72AP" platform="S5L8720X" cpid="34592" bdid="0" />
+  <AppleDevice Identifier="iPod3,1" Name="iPod touch 3" Model="A1318" Storage="32GB,  64GB" Color="Black" Gsm="WIFI" BoardConfig="N18AP" platform="S5L8922X" cpid="35106" bdid="2" />
+  <AppleDevice Identifier="iPod4,1" Name="iPod touch 4" Model="A1367" Storage="8GB,  16GB,  32GB,  64GB" Color="White ,Black" Gsm="WIFI" BoardConfig="N81AP" platform="S5L8930X" cpid="35120" bdid="8" />
+  <AppleDevice Identifier="iPod5,1" Name="iPod touch 5" Model="A1421,  A1509" Storage="16GB,  32GB,  64GB" Color="Available in Five Colors" Gsm="WIFI" BoardConfig="N78AP" platform="S5L8942X" cpid="35138" bdid="0" />
+  <AppleDevice Identifier="iPod7,1" Name="iPod touch 6" Model="A1574" Storage="16GB,  32GB,  64GB,  128GB" Color="Available in Five Colors" Gsm="WIFI" BoardConfig="N102AP" platform="T7000" cpid="28672" bdid="16" />
+  <AppleDevice Identifier="iPad1,1" Name="iPad 1" Model="A1219 , A1337" Storage="16GB,  32GB,  64GB" Color="Black, White" Gsm="WI-FI + 3G" BoardConfig="K48AP" platform="S5L8930X" cpid="35120" bdid="2" />
+  <AppleDevice Identifier="iPad2,1" Name="iPad 2 (WiFi)" Model="A1395" Storage="16GB,  32GB,  64GB" Color="Black, White" Gsm="WI-FI" BoardConfig="K93AP" platform="S5L8940X" cpid="35136" bdid="4" />
+  <AppleDevice Identifier="iPad2,2" Name="iPad 2 (GSM)" Model="A1396" Storage="16GB,  32GB,  64GB" Color="Black, White" Gsm="GSM" BoardConfig="K94AP" platform="S5L8940X" cpid="35136" bdid="6" />
+  <AppleDevice Identifier="iPad2,3" Name="iPad 2 (CDMA)" Model="A1397" Storage="16GB,  32GB,  64GB" Color="Black, White" Gsm="CDMA" BoardConfig="K95AP" platform="S5L8940X" cpid="35136" bdid="2" />
+  <AppleDevice Identifier="iPad2,4" Name="iPad 2 (Mid 2012)" Model="A1395" Storage="16GB,  32GB,  64GB" Color="Black, White" Gsm="WI-FI" BoardConfig="K93AAP" platform="S5L8942X" cpid="35138" bdid="6" />
+  <AppleDevice Identifier="iPad3,1" Name="iPad 3 (WiFi)" Model="A1416" Storage="16GB,  32GB,  64GB" Color="Black, White" Gsm="WI-FI" BoardConfig="J1AP" platform="S5L8945X" cpid="35141" bdid="0" />
+  <AppleDevice Identifier="iPad3,3" Name="iPad 3 (GSM)" Model="A1430" Storage="16GB,  32GB,  64GB" Color="Black, White" Gsm="WI-FI + CELLULAR" BoardConfig="J2AAP" platform="S5L8945X" cpid="35141" bdid="4" />
+  <AppleDevice Identifier="iPad3,2" Name="iPad 3 (CDMA)" Model="A1403" Storage="16GB,  32GB,  64GB" Color="Black, White" Gsm="WI-FI + CELLULAR(CDMA-VZ)" BoardConfig="J2AP" platform="S5L8945X" cpid="35141" bdid="2" />
+  <AppleDevice Identifier="iPad3,4" Name="iPad 4 (WiFi)" Model="A1458" Storage="16GB,  32GB,  64GB,  128GB" Color="Black, White" Gsm="WI-FI" BoardConfig="P101AP" platform="S5L8955X" cpid="35157" bdid="0" />
+  <AppleDevice Identifier="iPad3,5" Name="iPad 4 (GSM)" Model="A1459" Storage="16GB,  32GB,  64GB,  128GB" Color="Black, White" Gsm="WI-FI + CELLULAR" BoardConfig="P102AP" platform="S5L8955X" cpid="35157" bdid="2" />
+  <AppleDevice Identifier="iPad3,6" Name="iPad 4 (Global)" Model="A1460" Storage="16GB,  32GB,  64GB,  128GB" Color="Black, White" Gsm="WI-FI + CELLULAR" BoardConfig="P103AP" platform="S5L8955X" cpid="35157" bdid="4" />
+  <AppleDevice Identifier="iPad6,11" Name="iPad 5 (WiFi)" Model="A1822" Storage="32GB,  128GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI" BoardConfig="J71SAP" platform="S8000" cpid="32768" bdid="16" />
+  <AppleDevice Identifier="ipad6,12" Name="iPad 5 (Cellular)" Model="A1823" Storage="32GB, 128GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="NULL" platform="NULL" cpid="NULL" bdid="NULL" />
+  <AppleDevice Identifier="iPad7,5" Name="iPad 6 (WiFi)" Model="A1893" Storage="32GB,  128GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI" BoardConfig="J71BAP" platform="T8010" cpid="32784" bdid="24" />
+  <AppleDevice Identifier="iPad7,6" Name="iPad 6 (Cellular)" Model="A1954" Storage="32GB,  128GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J72BAP" platform="T8010" cpid="32784" bdid="26" />
+  <AppleDevice Identifier="iPad7,11" Name="iPad 7 (WiFi)" Model="A2232" Storage="32GB,  128GB" Color="Silver, Gold, Space Gray" Gsm="WI-FI ONLY , W/O GPS " BoardConfig="J172AP" platform="T8010" cpid="32784" bdid="30" />
+  <AppleDevice Identifier="iPad7,12" Name="iPad 7 (Cellular)" Model="A2200,  A2198" Storage="32GB,  128GB" Color="Silver, Gold, Space Gray" Gsm="WI-FI + CELLULAR + GPS" BoardConfig="J171AP" platform="T8010" cpid="32784" bdid="28" />
+  <AppleDevice Identifier="iPad4,1" Name="iPad Air (WiFi)" Model="A1474" Storage="16GB,  32GB,  64GB,  128GB" Color="Silver, Space Gray" Gsm="WI-FI" BoardConfig="J71AP" platform="S5L8960X" cpid="35168" bdid="16" />
+  <AppleDevice Identifier="iPad4,2" Name="iPad Air (Cellular)" Model="A1475" Storage="16GB,  32GB,  64GB,  128GB" Color="Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J72AP" platform="S5L8960X" cpid="35168" bdid="18" />
+  <AppleDevice Identifier="iPad4,3" Name="iPad Air (China)" Model="A1476" Storage="16GB,  32GB,  64GB,  128GB" Color="Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J73AP" platform="S5L8960X" cpid="35168" bdid="20" />
+  <AppleDevice Identifier="iPad5,3" Name="iPad Air 2 (WiFi)" Model="A1566" Storage="16GB,  32GB,  64GB,  128GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI" BoardConfig="J81AP" platform="T7001" cpid="28673" bdid="6" />
+  <AppleDevice Identifier="iPad5,4" Name="iPad Air 2 (Cellular)" Model="A1567" Storage="16GB,  32GB,  64GB,  128GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J82AP" platform="T7001" cpid="28673" bdid="2" />
+  <AppleDevice Identifier="iPad11,3" Name="iPad Air 3 (WiFi)" Model="A2152" Storage="64GB,  256GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI" BoardConfig="J217AP" platform="NULL" cpid="32800" bdid="28" />
+  <AppleDevice Identifier="iPad11,4" Name="iPad Air 3 (Cellular)" Model="A2123,  A2153,  A2154" Storage="64GB,  256GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J218AP" platform="NULL" cpid="32800" bdid="30" />
+  <AppleDevice Identifier="iPad2,5" Name="iPad Mini (WiFi)" Model="A1432" Storage="16GB,  32GB,  64GB" Color="Black, White, Silver" Gsm="WI-FI" BoardConfig="P105AP" platform="S5L8942X" cpid="35138" bdid="10" />
+  <AppleDevice Identifier="iPad2,6" Name="iPad Mini (GSM)" Model="A1454" Storage="16GB,  32GB,  64GB" Color="Black, White, Silver" Gsm="WI-FI + CELLULAR" BoardConfig="P106AP" platform="S5L8942X" cpid="35138" bdid="12" />
+  <AppleDevice Identifier="iPad2,7" Name="iPad Mini (Global)" Model="A1455" Storage="16GB,  32GB,  64GB" Color="Black, White, Silver" Gsm="WI-FI + CELLULAR" BoardConfig="P107AP" platform="S5L8942X" cpid="35138" bdid="14" />
+  <AppleDevice Identifier="iPad4,4" Name="iPad Mini 2 (WiFi)" Model="A1489" Storage="16GB,  32GB,  64GB,  128GB" Color="Silver, Space Gray" Gsm="WI-FI" BoardConfig="J85AP" platform="S5L8960X" cpid="35168" bdid="10" />
+  <AppleDevice Identifier="iPad4,5" Name="iPad Mini 2 (Cellular)" Model="A1490" Storage="16GB,  32GB,  64GB,  128GB" Color="Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J86AP" platform="S5L8960X" cpid="35168" bdid="12" />
+  <AppleDevice Identifier="iPad4,6" Name="iPad Mini 2 (China)" Model="A1491" Storage="16GB,  32GB,  64GB,  128GB" Color="Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J87AP" platform="S5L8960X" cpid="35168" bdid="14" />
+  <AppleDevice Identifier="iPad4,7" Name="iPad Mini 3 (WiFi)" Model="A1599" Storage="16GB,  64GB,  128GB" Color="Gold ,Silver, Space Gray" Gsm="WI-FI" BoardConfig="J85MAP" platform="S5L8960X" cpid="35168" bdid="50" />
+  <AppleDevice Identifier="iPad4,8" Name="iPad Mini 3 (Cellular)" Model="A1600" Storage="16GB,  64GB,  128GB" Color="Gold ,Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J86MAP" platform="S5L8960X" cpid="35168" bdid="52" />
+  <AppleDevice Identifier="iPad4,9" Name="iPad Mini 3 (China)" Model="A1601" Storage="16GB,  64GB,  128GB" Color="Gold ,Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J87MAP" platform="S5L8960X" cpid="35168" bdid="54" />
+  <AppleDevice Identifier="iPad5,1" Name="iPad Mini 4 (WiFi)" Model="A1538" Storage="16GB,  32GB,  64GB,  128GB" Color="Gold ,Silver, Space Gray" Gsm="WI-FI" BoardConfig="J96AP" platform="T7000" cpid="28672" bdid="8" />
+  <AppleDevice Identifier="iPad5,2" Name="iPad Mini 4 (Cellular)" Model="A1550" Storage="16GB,  32GB,  64GB,  128GB" Color="Gold ,Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J97AP" platform="T7000" cpid="28672" bdid="10" />
+  <AppleDevice Identifier="iPad11,1" Name="iPad Mini 5 (WiFi)" Model="A2133" Storage="64GB,  256GB" Color="Gold ,Silver, Space Gray" Gsm="WI-FI" BoardConfig="J210AP" platform="NULL" cpid="32800" bdid="20" />
+  <AppleDevice Identifier="iPad11,2" Name="iPad Mini 5 (Cellular)" Model="A2124,  A2125,  A2126" Storage="64GB,  256GB" Color="Gold ,Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J211AP" platform="NULL" cpid="32800" bdid="22" />
+  <AppleDevice Identifier="iPad6,3" Name="iPad Pro 9.7-inch (WiFi)" Model="A1673" Storage="32GB,  128GB,  256GB" Color="Gold, Rose Gold, Silver, Space Gray" Gsm="WI-FI" BoardConfig="J127AP" platform="S8001" cpid="32769" bdid="8" />
+  <AppleDevice Identifier="iPad6,4" Name="iPad Pro 9.7-inch (Cellular)" Model="A1674,  A1675" Storage="32GB,  128GB,  256GB" Color="Gold, Rose Gold, Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J128AP" platform="S8001" cpid="32769" bdid="10" />
+  <AppleDevice Identifier="iPad7,3" Name="iPad Pro (10.5-inch, WiFi)" Model="A1701" Storage="64GB,  256GB,  512GB" Color="Gold, Rose Gold, Silver, Space Gray" Gsm="WI-FI" BoardConfig="J207AP" platform="NULL" cpid="0" bdid="0" />
+  <AppleDevice Identifier="iPad7,4" Name="iPad Pro (10.5-inch, Cellular)" Model="A1709,  A1852" Storage="64GB,  256GB,  512GB" Color="Gold, Rose Gold, Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J208AP" platform="NULL" cpid="0" bdid="0" />
+  <AppleDevice Identifier="iPad6,7" Name="iPad Pro 12.9-inch (WiFi)" Model="A1584" Storage="32GB,  128GB,  256GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI" BoardConfig="J98AAP" platform="S8001" cpid="32769" bdid="16" />
+  <AppleDevice Identifier="iPad6,8" Name="iPad Pro 12.9-inch (Cellular)" Model="A1652" Storage="128GB,  256GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J99AAP" platform="S8001" cpid="32769" bdid="18" />
+  <AppleDevice Identifier="iPad7,1" Name="iPad Pro 2 (12.9-inch, WiFi)" Model="A1670" Storage="64GB,  256GB,  512GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI" BoardConfig="J120AP" platform="NULL" cpid="0" bdid="0" />
+  <AppleDevice Identifier="iPad7,2" Name="iPad Pro 2 (12.9-inch, Cellular)" Model="A1671,  A1821" Storage="64GB,  256GB,  512GB" Color="Gold, Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J121AP" platform="NULL" cpid="0" bdid="0" />
+  <AppleDevice Identifier="iPad8,1" Name="iPad Pro 3 (11-inch, WiFi)" Model="A1980" Storage="64GB,  256GB,  512GB" Color="Silver, Space Gray" Gsm="WI-FI" BoardConfig="J317AP" platform="NULL" cpid="32807" bdid="12" />
+  <AppleDevice Identifier="iPad8,3" Name="iPad Pro 3 (11-inch, Cellular)" Model="A2013,  A1934,  A1979" Storage="64GB,  256GB,  512GB" Color="Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J320AP" platform="T8027" cpid="32807" bdid="8" />
+  <AppleDevice Identifier="iPad8,2" Name="iPad Pro 3 (11-inch, WiFi, 1TB Model)" Model="A1980" Storage="1TB" Color="Silver, Space Gray" Gsm="WI-FI" BoardConfig="J317XAP" platform="NULL" cpid="32807" bdid="28" />
+  <AppleDevice Identifier="iPad8,4" Name="iPad Pro 3 (11-inch, Cellular, 1TB Model)" Model="A2013,  A1934,  A1979" Storage="1TB" Color="Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J318XAP" platform="NULL" cpid="32807" bdid="30" />
+  <AppleDevice Identifier="iPad8,5" Name="iPad Pro 3 (12.9-inch, WiFi)" Model="A1876" Storage="64GB,  256GB,  512GB" Color="Silver, Space Gray" Gsm="WI-FI" BoardConfig="J320AP" platform="NULL" cpid="32807" bdid="8" />
+  <AppleDevice Identifier="iPad8,7" Name="iPad Pro 3 (12.9-inch, Cellular)" Model="A2014,  A1895,  A1983" Storage="64GB,  256GB,  512GB" Color="Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J321AP" platform="NULL" cpid="32807" bdid="10" />
+  <AppleDevice Identifier="iPad8,6" Name="iPad Pro 3 (12.9-inch, WiFi, 1TB Model)" Model="A1876" Storage="1TB" Color="Silver, Space Gray" Gsm="WI-FI" BoardConfig="J317XAP" platform="T8027" cpid="32807" bdid="28" />
+  <AppleDevice Identifier="iPad8,8" Name="iPad Pro 3 (12.9-inch, Cellular, 1TB Model)" Model="A2014,  A1895,  A1983" Storage="1TB" Color="Silver, Space Gray" Gsm="WI-FI + CELLULAR" BoardConfig="J321XAP" platform="NULL" cpid="32807" bdid="26" />
+  <AppleDevice iModel="A1203" ModelIdentifier="iPhone1,1" />
+  <AppleDevice iModel="A1241" ModelIdentifier="iPhone1,2" />
+  <AppleDevice iModel="A1303" ModelIdentifier="iPhone2,1" />
+  <AppleDevice iModel="A1324" ModelIdentifier="iPhone1,2" />
+  <AppleDevice iModel="A1325" ModelIdentifier="iPhone2,1" />
+  <AppleDevice iModel="A1332" ModelIdentifier="iPhone3,1" />
+  <AppleDevice iModel="A1349" ModelIdentifier="iPhone3,3" />
+  <AppleDevice iModel="A1387" ModelIdentifier="iPhone4,1" />
+  <AppleDevice iModel="A1428" ModelIdentifier="iPhone5,1" />
+  <AppleDevice iModel="A1429" ModelIdentifier="iPhone5,2" />
+  <AppleDevice iModel="A1431" ModelIdentifier="iPhone4,1" />
+  <AppleDevice iModel="A1442" ModelIdentifier="iPhone5,2" />
+  <AppleDevice iModel="A1453" ModelIdentifier="iPhone6,1" />
+  <AppleDevice iModel="A1456" ModelIdentifier="iPhone5,3" />
+  <AppleDevice iModel="A1457" ModelIdentifier="iPhone6,2" />
+  <AppleDevice iModel="A1507" ModelIdentifier="iPhone5,4" />
+  <AppleDevice iModel="A1516" ModelIdentifier="iPhone5,4" />
+  <AppleDevice iModel="A1518" ModelIdentifier="iPhone6,2" />
+  <AppleDevice iModel="A1522" ModelIdentifier="iPhone7,1" />
+  <AppleDevice iModel="A1524" ModelIdentifier="iPhone7,1" />
+  <AppleDevice iModel="A1528" ModelIdentifier="iPhone6,2" />
+  <AppleDevice iModel="A1529" ModelIdentifier="iPhone5,4" />
+  <AppleDevice iModel="A1530" ModelIdentifier="iPhone6,2" />
+  <AppleDevice iModel="A1532" ModelIdentifier="iPhone5,3" />
+  <AppleDevice iModel="A1533" ModelIdentifier="iPhone6,1" />
+  <AppleDevice iModel="A1549" ModelIdentifier="iPhone7,2" />
+  <AppleDevice iModel="A1586" ModelIdentifier="iPhone7,2" />
+  <AppleDevice iModel="A1589" ModelIdentifier="iPhone7,2" />
+  <AppleDevice iModel="A1593" ModelIdentifier="iPhone7,1" />
+  <AppleDevice iModel="A1633" ModelIdentifier="iPhone8,1" />
+  <AppleDevice iModel="A1634" ModelIdentifier="iPhone8,2" />
+  <AppleDevice iModel="A1660" ModelIdentifier="iPhone9,1" />
+  <AppleDevice iModel="A1661" ModelIdentifier="iPhone9,2" />
+  <AppleDevice iModel="A1662" ModelIdentifier="iPhone8,4" />
+  <AppleDevice iModel="A1687" ModelIdentifier="iPhone8,2" />
+  <AppleDevice iModel="A1688" ModelIdentifier="iPhone8,1" />
+  <AppleDevice iModel="A1690" ModelIdentifier="iPhone8,2" />
+  <AppleDevice iModel="A1691" ModelIdentifier="iPhone8,1" />
+  <AppleDevice iModel="A1699" ModelIdentifier="iPhone8,2" />
+  <AppleDevice iModel="A1700" ModelIdentifier="iPhone8,1" />
+  <AppleDevice iModel="A1723" ModelIdentifier="iPhone8,4" />
+  <AppleDevice iModel="A1724" ModelIdentifier="iPhone8,4" />
+  <AppleDevice iModel="A1778" ModelIdentifier="iPhone9,3" />
+  <AppleDevice iModel="A1779" ModelIdentifier="iPhone9,1" />
+  <AppleDevice iModel="A1780" ModelIdentifier="iPhone9,1" />
+  <AppleDevice iModel="A1784" ModelIdentifier="iPhone9,4" />
+  <AppleDevice iModel="A1785" ModelIdentifier="iPhone9,2" />
+  <AppleDevice iModel="A1786" ModelIdentifier="iPhone9,2" />
+  <AppleDevice iModel="A1863" ModelIdentifier="iPhone10,1" />
+  <AppleDevice iModel="A1864" ModelIdentifier="iPhone10,2" />
+  <AppleDevice iModel="A1865" ModelIdentifier="iPhone10,3" />
+  <AppleDevice iModel="A1897" ModelIdentifier="iPhone10,5" />
+  <AppleDevice iModel="A1898" ModelIdentifier="iPhone10,2" />
+  <AppleDevice iModel="A1899" ModelIdentifier="iPhone10,2" />
+  <AppleDevice iModel="A1901" ModelIdentifier="iPhone10,6" />
+  <AppleDevice iModel="A1902" ModelIdentifier="iPhone10,3" />
+  <AppleDevice iModel="A1905" ModelIdentifier="iPhone10,4" />
+  <AppleDevice iModel="A1906" ModelIdentifier="iPhone10,1" />
+  <AppleDevice iModel="A1907" ModelIdentifier="iPhone10,1" />
+  <AppleDevice iModel="A1920" ModelIdentifier="iPhone11,2" />
+  <AppleDevice iModel="A1921" ModelIdentifier="iPhone11,6" />
+  <AppleDevice iModel="A1984" ModelIdentifier="iPhone11,8" />
+  <AppleDevice iModel="A2097" ModelIdentifier="iPhone11,2" />
+  <AppleDevice iModel="A2098" ModelIdentifier="iPhone11,2" />
+  <AppleDevice iModel="A2100" ModelIdentifier="iPhone11,2" />
+  <AppleDevice iModel="A2101" ModelIdentifier="iPhone11,6" />
+  <AppleDevice iModel="A2102" ModelIdentifier="iPhone11,6" />
+  <AppleDevice iModel="A2104" ModelIdentifier="iPhone11,4" />
+  <AppleDevice iModel="A2105" ModelIdentifier="iPhone11,8" />
+  <AppleDevice iModel="A2106" ModelIdentifier="iPhone11,8" />
+  <AppleDevice iModel="A2108" ModelIdentifier="iPhone11,8" />
+  <AppleDevice iModel="A2160" ModelIdentifier="iPhone12,3" />
+  <AppleDevice iModel="A2161" ModelIdentifier="iPhone12,5" />
+  <AppleDevice iModel="A2111" ModelIdentifier="iPhone12,1" />
+  <AppleDevice iModel="A2215" ModelIdentifier="iPhone12,3" />
+  <AppleDevice iModel="A2217" ModelIdentifier="iPhone12,3" />
+  <AppleDevice iModel="A2218" ModelIdentifier="iPhone12,5" />
+  <AppleDevice iModel="A2220" ModelIdentifier="iPhone12,5" />
+  <AppleDevice iModel="A2221" ModelIdentifier="iPhone12,1" />
+  <AppleDevice iModel="A2223" ModelIdentifier="iPhone12,1" />
+  <AppleDevice iModel="A1213" ModelIdentifier="iPod1,1" />
+  <AppleDevice iModel="A1288" ModelIdentifier="iPod2,1" />
+  <AppleDevice iModel="A1318" ModelIdentifier="iPod3,1" />
+  <AppleDevice iModel="A1319" ModelIdentifier="iPod2,1" />
+  <AppleDevice iModel="A1367" ModelIdentifier="iPod4,1" />
+  <AppleDevice iModel="A1421" ModelIdentifier="iPod5,1" />
+  <AppleDevice iModel="A1509" ModelIdentifier="iPod5,1" />
+  <AppleDevice iModel="A1574" ModelIdentifier="iPod7,1" />
+  <AppleDevice iModel="A1219" ModelIdentifier="iPad1,1" />
+  <AppleDevice iModel="A1337" ModelIdentifier="iPad1,1" />
+  <AppleDevice iModel="A1395" ModelIdentifier="iPad2,1" />
+  <AppleDevice iModel="A1395" ModelIdentifier="iPad2,4" />
+  <AppleDevice iModel="A1396" ModelIdentifier="iPad2,2" />
+  <AppleDevice iModel="A1397" ModelIdentifier="iPad2,3" />
+  <AppleDevice iModel="A1403" ModelIdentifier="iPad3,2" />
+  <AppleDevice iModel="A1416" ModelIdentifier="iPad3,1" />
+  <AppleDevice iModel="A1430" ModelIdentifier="iPad3,3" />
+  <AppleDevice iModel="A1432" ModelIdentifier="iPad2,5" />
+  <AppleDevice iModel="A1454" ModelIdentifier="iPad2,6" />
+  <AppleDevice iModel="A1455" ModelIdentifier="iPad2,7" />
+  <AppleDevice iModel="A1458" ModelIdentifier="iPad3,4" />
+  <AppleDevice iModel="A1459" ModelIdentifier="iPad3,5" />
+  <AppleDevice iModel="A1460" ModelIdentifier="iPad3,6" />
+  <AppleDevice iModel="A1474" ModelIdentifier="iPad4,1" />
+  <AppleDevice iModel="A1475" ModelIdentifier="iPad4,2" />
+  <AppleDevice iModel="A1476" ModelIdentifier="iPad4,3" />
+  <AppleDevice iModel="A1489" ModelIdentifier="iPad4,4" />
+  <AppleDevice iModel="A1490" ModelIdentifier="iPad4,5" />
+  <AppleDevice iModel="A1491" ModelIdentifier="iPad4,6" />
+  <AppleDevice iModel="A1538" ModelIdentifier="iPad5,1" />
+  <AppleDevice iModel="A1550" ModelIdentifier="iPad5,2" />
+  <AppleDevice iModel="A1566" ModelIdentifier="iPad5,3" />
+  <AppleDevice iModel="A1567" ModelIdentifier="iPad5,4" />
+  <AppleDevice iModel="A1584" ModelIdentifier="iPad6,7" />
+  <AppleDevice iModel="A1599" ModelIdentifier="iPad4,7" />
+  <AppleDevice iModel="A1600" ModelIdentifier="iPad4,8" />
+  <AppleDevice iModel="A1601" ModelIdentifier="iPad4,9" />
+  <AppleDevice iModel="A1652" ModelIdentifier="iPad6,8" />
+  <AppleDevice iModel="A1670" ModelIdentifier="iPad7,1" />
+  <AppleDevice iModel="A1671" ModelIdentifier="iPad7,2" />
+  <AppleDevice iModel="A1673" ModelIdentifier="iPad6,3" />
+  <AppleDevice iModel="A1674" ModelIdentifier="iPad6,4" />
+  <AppleDevice iModel="A1675" ModelIdentifier="iPad6,4" />
+  <AppleDevice iModel="A1701" ModelIdentifier="iPad7,3" />
+  <AppleDevice iModel="A1709" ModelIdentifier="iPad7,4" />
+  <AppleDevice iModel="A1821" ModelIdentifier="iPad7,2" />
+  <AppleDevice iModel="A1822" ModelIdentifier="iPad6,11" />
+  <AppleDevice iModel="A1823" ModelIdentifier="ipad6,12" />
+  <AppleDevice iModel="A1852" ModelIdentifier="iPad7,4" />
+  <AppleDevice iModel="A1876" ModelIdentifier="iPad8,5" />
+  <AppleDevice iModel="A1876" ModelIdentifier="iPad8,6" />
+  <AppleDevice iModel="A1893" ModelIdentifier="iPad7,5" />
+  <AppleDevice iModel="A1895" ModelIdentifier="iPad8,7" />
+  <AppleDevice iModel="A1895" ModelIdentifier="iPad8,8" />
+  <AppleDevice iModel="A1934" ModelIdentifier="iPad8,3" />
+  <AppleDevice iModel="A1934" ModelIdentifier="iPad8,4" />
+  <AppleDevice iModel="A1954" ModelIdentifier="iPad7,6" />
+  <AppleDevice iModel="A1979" ModelIdentifier="iPad8,3" />
+  <AppleDevice iModel="A1979" ModelIdentifier="iPad8,4" />
+  <AppleDevice iModel="A1980" ModelIdentifier="iPad8,1" />
+  <AppleDevice iModel="A1983" ModelIdentifier="iPad8,7" />
+  <AppleDevice iModel="A1983" ModelIdentifier="iPad8,8" />
+  <AppleDevice iModel="A2013" ModelIdentifier="iPad8,3" />
+  <AppleDevice iModel="A2014" ModelIdentifier="iPad8,7" />
+  <AppleDevice iModel="A2123" ModelIdentifier="iPad11,4" />
+  <AppleDevice iModel="A2124" ModelIdentifier="iPad11,2" />
+  <AppleDevice iModel="A2125" ModelIdentifier="iPad11,2" />
+  <AppleDevice iModel="A2126" ModelIdentifier="iPad11,2" />
+  <AppleDevice iModel="A2133" ModelIdentifier="iPad11,1" />
+  <AppleDevice iModel="A2152" ModelIdentifier="iPad11,3" />
+  <AppleDevice iModel="A2153" ModelIdentifier="iPad11,4" />
+  <AppleDevice iModel="A2154" ModelIdentifier="iPad11,4" />
+  <AppleDevice iModel="A2198" ModelIdentifier="iPad7,12" />
+  <AppleDevice iModel="A2200" ModelIdentifier="iPad7,12" />
+  <AppleDevice iModel="A2232" ModelIdentifier="iPad7,11" />
+</AppleDataBase>
+
+</APPLE_Devices>
+<Qualcomm_SW>
+
+<QualComm_Models>
+
+<Oppo_QualComm_Models>
+<OPPODevice>OPPO-1100 (1100 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-1105 (1105 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-1107 (1107 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-1206 (Neo 5s LTE DS)</OPPODevice>
+<OPPODevice>OPPO-3000 (Mirror 3 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-3001 (Mirror 3 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-3005 (Mirror 3 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-3006 (Mirror 3 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-3007 (Mirror 3 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-3008 (3008 3 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-A11 (A11 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-A30 (A30 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-A31 (A31 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-A31C (A31C LTE DS)</OPPODevice>
+<OPPODevice>OPPO-A31T (A31T LTE DS)</OPPODevice>
+<OPPODevice>OPPO-A31U (A31U LTE DS)</OPPODevice>
+<OPPODevice>OPPO-A33 (A33 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-A33F (Neo 7 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-A37F (Neo 9 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-A51 (A51 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-A51F (Mirror 5 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-A51KC (A51 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-A51W (Mirror 5 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-A53 (A53 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-A53M (A53M LTE DS)</OPPODevice>
+<OPPODevice>OPPO-A53T (A53T LTE DS)</OPPODevice>
+<OPPODevice>OPPO-F1 (F1 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-F1F (F1F LTE DS)</OPPODevice>
+<OPPODevice>OPPO-F1W (F1W LTE DS)</OPPODevice>
+<OPPODevice>OPPO-F3 Plus (F3 Plus LTE DS CPH1611)</OPPODevice>
+<OPPODevice>OPPO-F3 Plus (F3 Plus LTE DS CPH1613)</OPPODevice>
+<OPPODevice>OPPO-N5110 (N1 Mini TDLTE)</OPPODevice>
+<OPPODevice>OPPO-N5111 (N1 Mini 3G)</OPPODevice>
+<OPPODevice>OPPO-N5116 (N1 Mini LTE)</OPPODevice>
+<OPPODevice>OPPO-N5117 (N1 Mini LTE)</OPPODevice>
+<OPPODevice>OPPO-N5206 (N3 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-N5207 (N3 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-N5209 (N3 LTE DS)</OPPODevice>
+<OPPODevice>OPPO-R7 PlusF (R7 PlusF LTE DS)</OPPODevice>
+<OPPODevice>OPPO-R7 PlusM (R7 PlusM LTE DS)</OPPODevice>
+<OPPODevice>OPPO-R7C (R7C LTE DS)</OPPODevice>
+<OPPODevice>OPPO-R7F (R7F LTE DS)</OPPODevice>
+<OPPODevice>OPPO-R7G (R7G LTE DS)</OPPODevice>
+<OPPODevice>OPPO-R7KC (R7KC Lite LTE DS)</OPPODevice>
+<OPPODevice>OPPO-R7KF (R7KF Lite LTE DS)</OPPODevice>
+<OPPODevice>OPPO-R7KT (R7KT Lite LTE DS)</OPPODevice>
+<OPPODevice>OPPO-R7S (R7S Plus LTE DS)</OPPODevice>
+<OPPODevice>OPPO-R7SM (R7SM LTE DS)</OPPODevice>
+<OPPODevice>OPPO-R9 PlusM A (R9 PlusM A LTE DS)</OPPODevice>
+<OPPODevice>OPPO-R9 PlusTM A (R9 PlusTM A LTE DS)</OPPODevice>
+<OPPODevice>OPPO-R9s (R9s LTE DS CPH1607)</OPPODevice> 
+<OPPODevice>OPPO-R9s Plus (R9s Plus LTE DS CPH1611)</OPPODevice> 
+<OPPODevice>OPPO-R9s Pro (R9s Pro LTE DS CPH1613)</OPPODevice> 
+<OPPODevice>OPPO-R9sK (R9sK LTE DS)</OPPODevice> 
+<OPPODevice>OPPO-R9sT (R9sT LTE DS)</OPPODevice> 
+<OPPODevice>OPPO-R2010 (R2010 TDLTE)</OPPODevice> 
+<OPPODevice>OPPO-R2017 (R2017 TDLTE)</OPPODevice> 
+<OPPODevice>OPPO-R6007 (Find 7 Mini LTE)</OPPODevice> 
+<OPPODevice>OPPO-R7005 (R3 LTE)</OPPODevice> 
+<OPPODevice>OPPO-R7007 (R3 LTE)</OPPODevice> 
+<OPPODevice>OPPO-R8000 (R1K LTE)</OPPODevice> 
+<OPPODevice>OPPO-R8001 (R1K LTE)</OPPODevice> 
+<OPPODevice>OPPO-R8006 (R1L LTE)</OPPODevice> 
+<OPPODevice>OPPO-R8007 (R1S LTE)</OPPODevice> 
+<OPPODevice>OPPO-R8106 (R5 LTE)</OPPODevice> 
+<OPPODevice>OPPO-R8107 (R5 LTE)</OPPODevice> 
+<OPPODevice>OPPO-R8109 (R5 LTE)</OPPODevice> 
+<OPPODevice>OPPO-R8200 (R1C LTE DS)</OPPODevice> 
+<OPPODevice>OPPO-R8201 (R1C LTE DS)</OPPODevice> 
+<OPPODevice>OPPO-R8205 (R1C LTE DS)</OPPODevice> 
+<OPPODevice>OPPO-R8206 (R1X LTE DS)</OPPODevice> 
+<OPPODevice>OPPO-R8207 (R1C LTE DS)</OPPODevice> 
+<OPPODevice>OPPO-R830S (R830S LTE)</OPPODevice> 
+<OPPODevice>OPPO-R831L (Neo 5 LTE DS)</OPPODevice> 
+<OPPODevice>OPPO-R831S (R831S LTE)</OPPODevice> 
+<OPPODevice>OPPO-X9000 (Find 7A LTE)</OPPODevice> 
+<OPPODevice>OPPO-X9006 (Find 7A LTE)</OPPODevice> 
+<OPPODevice>OPPO-X9007 (Find 7A LTE DS)</OPPODevice> 
+<OPPODevice>OPPO-X9070 (Find 7 LTE)</OPPODevice> 
+<OPPODevice>OPPO-X9076 (Find 7 LTE)</OPPODevice> 
+<OPPODevice>OPPO-X9077 (Find 7 LTE)</OPPODevice> 
+<OPPODevice>OPPO-X9079 (R9 Plus LTE DS)</OPPODevice> 
+<OPPODevice>OPPO-A57 (A57 LTE DS CPH1701)</OPPODevice>
+<OPPODevice>OPPO-A57N (A57N LTE DS CPH1701)</OPPODevice>
+<OPPODevice>OPPO-A57T (A57T LTE DS CPH1701)</OPPODevice>
+<OPPODevice>OPPO-F3 Lite (F3 Lite LTE DS CPH1701)</OPPODevice>
+</Oppo_QualComm_Models>
+<Lenovo_QualComm_Models>
+<LenovoDevice>A2020a40 (Vibe C LTE DS)</LenovoDevice>
+<LenovoDevice>A6000 (A6000)</LenovoDevice>
+</Lenovo_QualComm_Models>
+</QualComm_Models>
+
+<Qualcomm_Dataase>
+<Qualcomm_Oppo_Dataase>
+  <QcomModels Model="OPPO-1100 (1100 LTE DS)" CPU_Type="SnapDragon 410" CPU_MSM="MSM8916" Loader="prog_emmc_firehose_8916_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-1105 (1105 LTE DS)" CPU_Type="SnapDragon 410" CPU_MSM="MSM8916" Loader="prog_emmc_firehose_8916_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-1107 (1107 LTE DS)" CPU_Type="SnapDragon 410" CPU_MSM="MSM8916" Loader="prog_emmc_firehose_8916_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-1206 (Neo 5s LTE DS)" CPU_Type="SnapDragon 410" CPU_MSM="MSM8916" Loader="prog_emmc_firehose_8916_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-3000 (Mirror 3 LTE DS)" CPU_Type="SnapDragon 410" CPU_MSM="MSM8916" Loader="prog_emmc_firehose_8916_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-3001 (Mirror 3 LTE DS)" CPU_Type="SnapDragon 410" CPU_MSM="MSM8916" Loader="prog_emmc_firehose_8916_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-3005 (Mirror 3 LTE DS)" CPU_Type="SnapDragon 410" CPU_MSM="MSM8916" Loader="prog_emmc_firehose_8916_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-3006 (Mirror 3 LTE DS)" CPU_Type="SnapDragon 410" CPU_MSM="MSM8916" Loader="prog_emmc_firehose_8916_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-3007 (Mirror 3 LTE DS)" CPU_Type="SnapDragon 410" CPU_MSM="MSM8916" Loader="prog_emmc_firehose_8916_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-3008 (3008 3 LTE DS)" CPU_Type="SnapDragon 400" CPU_MSM="MSM8928" Loader="prog_emmc_firehose_8x26_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-A11 (A11 LTE DS)" CPU_Type="SnapDragon 410" CPU_MSM="MSM8916" Loader="prog_emmc_firehose_8916_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-A30 (A30 LTE DS)" CPU_Type="SnapDragon 801" CPU_MSM="MSM8974Pro" Loader="prog_emmc_firehose_8974_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-A31 (A31 LTE DS)" CPU_Type="SnapDragon 410" CPU_MSM="MSM8916" Loader="prog_emmc_firehose_8916_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-A31C (A31C LTE DS)" CPU_Type="SnapDragon 410" CPU_MSM="MSM8916" Loader="prog_emmc_firehose_8916_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-A31T (A31T LTE DS)" CPU_Type="SnapDragon 410" CPU_MSM="MSM8916" Loader="prog_emmc_firehose_8916_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-A31U (A31U LTE DS)" CPU_Type="SnapDragon 410" CPU_MSM="MSM8916" Loader="prog_emmc_firehose_8916_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-A33 (A33 LTE DS)" CPU_Type="SnapDragon 410" CPU_MSM="MSM8916" Loader="prog_emmc_firehose_8916_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-A33F (Neo 7 LTE DS)" CPU_Type="SnapDragon 410" CPU_MSM="MSM8916" Loader="prog_emmc_firehose_8916_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-A37F (Neo 9 LTE DS)" CPU_Type="SnapDragon 410" CPU_MSM="MSM8916" Loader="prog_emmc_firehose_8916_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-A51 (A51 LTE DS)" CPU_Type="SnapDragon 410" CPU_MSM="MSM8916" Loader="prog_emmc_firehose_8916_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-A51F (Mirror 5 LTE DS)" CPU_Type="SnapDragon 410" CPU_MSM="MSM8916" Loader="prog_emmc_firehose_8916_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-A51KC (A51 LTE DS)" CPU_Type="SnapDragon 410" CPU_MSM="MSM8916" Loader="prog_emmc_firehose_8916_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-A51W (Mirror 5 LTE DS)" CPU_Type="SnapDragon 410" CPU_MSM="MSM8916" Loader="prog_emmc_firehose_8916_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-A53 (A53 LTE DS)" CPU_Type="SnapDragon 616" CPU_MSM="MSM8936" Loader="prog_emmc_firehose_8936_oppo3.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-A53M (A53M LTE DS)" CPU_Type="SnapDragon 616" CPU_MSM="MSM8936" Loader="prog_emmc_firehose_8936_oppo3.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-A53T (A53T LTE DS)" CPU_Type="SnapDragon 616" CPU_MSM="MSM8936" Loader="prog_emmc_firehose_8936_oppo3.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-F1 (F1 LTE DS)" CPU_Type="SnapDragon 616" CPU_MSM="MSM8939" Loader="prog_emmc_firehose_8936_oppo3.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-F1F (F1F LTE DS)" CPU_Type="SnapDragon 616" CPU_MSM="MSM8939" Loader="prog_emmc_firehose_8936_oppo3.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-F1W (F1W LTE DS)" CPU_Type="SnapDragon 616" CPU_MSM="MSM8939" Loader="prog_emmc_firehose_8936_oppo3.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-F3 Plus (F3 Plus LTE DS CPH1611)" CPU_Type="SnapDragon 653" CPU_MSM="MSM8976Pro" Loader="prog_emmc_firehose_8976_ddr_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-F3 Plus (F3 Plus LTE DS CPH1613)" CPU_Type="SnapDragon 653" CPU_MSM="MSM8976Pro" Loader="prog_emmc_firehose_8976_ddr_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-N5110 (N1 Mini TDLTE)" CPU_Type="SnapDragon 400" CPU_MSM="MSM8628" Loader="prog_emmc_firehose_8x26_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-N5111 (N1 Mini 3G)" CPU_Type="SnapDragon 400" CPU_MSM="MSM8228" Loader="prog_emmc_firehose_8x26_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-N5116 (N1 Mini LTE)" CPU_Type="SnapDragon 400" CPU_MSM="MSM8928" Loader="prog_emmc_firehose_8x26_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-N5117 (N1 Mini LTE)" CPU_Type="SnapDragon 400" CPU_MSM="MSM8228" Loader="prog_emmc_firehose_8x26_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-N5206 (N3 LTE DS)" CPU_Type="SnapDragon 801" CPU_MSM="MSM8974Pro" Loader="prog_emmc_firehose_8974_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-N5207 (N3 LTE DS)" CPU_Type="SnapDragon 801" CPU_MSM="MSM8974Pro" Loader="prog_emmc_firehose_8974_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-N5209 (N3 LTE DS)" CPU_Type="SnapDragon 801" CPU_MSM="MSM8974Pro" Loader="prog_emmc_firehose_8974_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R7 PlusF (R7 PlusF LTE DS)" CPU_Type="SnapDragon 616" CPU_MSM="MSM8939" Loader="prog_emmc_firehose_8936_oppo3.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R7 PlusM (R7 PlusM LTE DS)" CPU_Type="SnapDragon 616" CPU_MSM="MSM8939" Loader="prog_emmc_firehose_8936_oppo3.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R7C (R7C LTE DS)" CPU_Type="SnapDragon 615" CPU_MSM="MSM8939" Loader="prog_emmc_firehose_8936_oppo4.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R7F (R7F LTE DS)" CPU_Type="SnapDragon 615" CPU_MSM="MSM8939" Loader="prog_emmc_firehose_8936_oppo4.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R7G (R7G LTE DS)" CPU_Type="SnapDragon 615" CPU_MSM="MSM8939" Loader="prog_emmc_firehose_8936_oppo3.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R7KC (R7KC Lite LTE DS)" CPU_Type="SnapDragon 415" CPU_MSM="MSM8929" Loader="prog_emmc_firehose_8929_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R7KF (R7KF Lite LTE DS)" CPU_Type="SnapDragon 415" CPU_MSM="MSM8929" Loader="prog_emmc_firehose_8929_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R7KT (R7KT Lite LTE DS)" CPU_Type="SnapDragon 415" CPU_MSM="MSM8929" Loader="prog_emmc_firehose_8929_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R7S (R7S Plus LTE DS)" CPU_Type="SnapDragon 616" CPU_MSM="MSM8939" Loader="prog_emmc_firehose_8936_oppo3.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R7SM (R7SM LTE DS)" CPU_Type="SnapDragon 615" CPU_MSM="MSM8939" Loader="prog_emmc_firehose_8936_oppo3.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R9 PlusM A (R9 PlusM A LTE DS)" CPU_Type="SnapDragon 652" CPU_MSM="MSM8976" Loader="prog_emmc_firehose_8976_ddr_oppo_r9_plusma.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R9 PlusTM A (R9 PlusTM A LTE DS)" CPU_Type="SnapDragon 652" CPU_MSM="MSM8976" Loader="prog_emmc_firehose_8976_ddr_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R9s (R9s LTE DS CPH1607)" CPU_Type="SnapDragon 625" CPU_MSM="MSM8953" Loader="prog_emmc_firehose_8953_ddr_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R9s Plus (R9s Plus LTE DS CPH1611)" CPU_Type="SnapDragon 653" CPU_MSM="MSM8976Pro" Loader="prog_emmc_firehose_8976_ddr_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R9s Pro (R9s Pro LTE DS CPH1613)" CPU_Type="SnapDragon 653" CPU_MSM="MSM8976Pro" Loader="prog_emmc_firehose_8976_ddr_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R9sK (R9sK LTE DS)" CPU_Type="SnapDragon 625" CPU_MSM="MSM8953" Loader="prog_emmc_firehose_8953_ddr_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R9sT (R9sT LTE DS)" CPU_Type="SnapDragon 625" CPU_MSM="MSM8953" Loader="prog_emmc_firehose_8953_ddr_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R2010 (R2010 TDLTE)" CPU_Type="SnapDragon 400" CPU_MSM="MSM8628" Loader="prog_emmc_firehose_8x26_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R2017 (R2017 TDLTE)" CPU_Type="SnapDragon 400" CPU_MSM="MSM8928" Loader="prog_emmc_firehose_8x26_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R6007 (Find 7 Mini LTE)" CPU_Type="SnapDragon 400" CPU_MSM="MSM8928" Loader="prog_emmc_firehose_8x26_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R7005 (R3 LTE)" CPU_Type="SnapDragon 400" CPU_MSM="MSM8928" Loader="prog_emmc_firehose_8x26_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R7007 (R3 LTE)" CPU_Type="SnapDragon 400" CPU_MSM="MSM8928" Loader="prog_emmc_firehose_8x26_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R8000 (R1K LTE)" CPU_Type="SnapDragon 400" CPU_MSM="MSM8928" Loader="prog_emmc_firehose_8x26_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R8001 (R1K LTE)" CPU_Type="SnapDragon 400" CPU_MSM="MSM8928" Loader="prog_emmc_firehose_8x26_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R8006 (R1L LTE)" CPU_Type="SnapDragon 400" CPU_MSM="MSM8928" Loader="prog_emmc_firehose_8x26_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R8007 (R1S LTE)" CPU_Type="SnapDragon 400" CPU_MSM="MSM8928" Loader="prog_emmc_firehose_8x26_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R8106 (R5 LTE)" CPU_Type="SnapDragon 615" CPU_MSM="MSM8939" Loader="prog_emmc_firehose_8936_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R8107 (R5 LTE)" CPU_Type="SnapDragon 615" CPU_MSM="MSM8939" Loader="prog_emmc_firehose_8936_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R8109 (R5 LTE)" CPU_Type="SnapDragon 615" CPU_MSM="MSM8939" Loader="prog_emmc_firehose_8936_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R8200 (R1C LTE DS)" CPU_Type="SnapDragon 615" CPU_MSM="MSM8939" Loader="prog_emmc_firehose_8936_oppo2.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R8201 (R1C LTE DS)" CPU_Type="SnapDragon 615" CPU_MSM="MSM8939" Loader="prog_emmc_firehose_8936_oppo2.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R8205 (R1C LTE DS)" CPU_Type="SnapDragon 615" CPU_MSM="MSM8939" Loader="prog_emmc_firehose_8936_oppo2.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R8206 (R1X LTE DS)" CPU_Type="SnapDragon 615" CPU_MSM="MSM8939" Loader="prog_emmc_firehose_8936_oppo2.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R8207 (R1C LTE DS)" CPU_Type="SnapDragon 615" CPU_MSM="MSM8939" Loader="prog_emmc_firehose_8936_oppo2.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R830S (R830S LTE)" CPU_Type="SnapDragon 400" CPU_MSM="MSM8928" Loader="prog_emmc_firehose_8x26_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R831L (Neo 5 LTE DS)" CPU_Type="SnapDragon 400" CPU_MSM="MSM8928" Loader="prog_emmc_firehose_8x26_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-R831S (R831S LTE)" CPU_Type="SnapDragon 400" CPU_MSM="MSM8928" Loader="prog_emmc_firehose_8x26_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-X9000 (Find 7A LTE)" CPU_Type="SnapDragon 801" CPU_MSM="MSM8974Pro" Loader="prog_emmc_firehose_8974_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-X9006 (Find 7A LTE)" CPU_Type="SnapDragon 801" CPU_MSM="MSM8974Pro" Loader="prog_emmc_firehose_8974_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-X9007 (Find 7A LTE DS)" CPU_Type="SnapDragon 801" CPU_MSM="MSM8974Pro" Loader="prog_emmc_firehose_8974_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-X9070 (Find 7 LTE)" CPU_Type="SnapDragon 801" CPU_MSM="MSM8974Pro" Loader="prog_emmc_firehose_8974_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-X9076 (Find 7 LTE)" CPU_Type="SnapDragon 801" CPU_MSM="MSM8974Pro" Loader="prog_emmc_firehose_8974_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-X9077 (Find 7 LTE)" CPU_Type="SnapDragon 801" CPU_MSM="MSM8974Pro" Loader="prog_emmc_firehose_8974_oppo.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-X9079 (R9 Plus LTE DS)" CPU_Type="SnapDragon 652" CPU_MSM="MSM8976" Loader="prog_emmc_firehose_8976_ddr_oppo.mbn" TestPoint="True" TP_Path="" />
+  <QcomModels Model="OPPO-A57 (A57 LTE DS CPH1701)" CPU_Type="SnapDragon 435" CPU_MSM="MSM8940" Loader="prog_emmc_firehose_8940_ddr_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-A57N (A57N LTE DS CPH1701)" CPU_Type="SnapDragon 435" CPU_MSM="MSM8940" Loader="prog_emmc_firehose_8940_ddr_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-A57T (A57T LTE DS CPH1701)" CPU_Type="SnapDragon 435" CPU_MSM="MSM8940" Loader="prog_emmc_firehose_8940_ddr_oppo1.mbn" TestPoint="False" TP_Path="" />
+  <QcomModels Model="OPPO-F3 Lite (F3 Lite LTE DS CPH1701)" CPU_Type="SnapDragon 435" CPU_MSM="MSM8940" Loader="prog_emmc_firehose_8940_ddr_oppo1.mbn" TestPoint="False" TP_Path="" />
+</Qualcomm_Oppo_Dataase>
+<Qualcomm_Lenovo_Dataase>
+1.<QcomModels Model="A2020a40 (Vibe C LTE DS)" CPU_Type="SnapDragon 210" CPU_MSM="MSM8909" Loader="prog_emmc_firehose_8909_len.mbn" TestPoint="True" TP_Path="" />
+2.<QcomModels Model="A6000 (A6000)" CPU_Type="SnapDragon 210" CPU_MSM="MSM8916" Loader="prog_emmc_firehose_8916_len.mbn" TestPoint="True" TP_Path="" />
+</Qualcomm_Lenovo_Dataase>
+</Qualcomm_Dataase>
+
+</Qualcomm_SW>
+<SamsungModels>
+  <SamFRP>SC-01C </SamFRP>
+  <SamFRP>SC-01D </SamFRP>
+  <SamFRP>SC-01E </SamFRP>
+  <SamFRP>SC-01F </SamFRP>
+  <SamFRP>SC-01G </SamFRP>
+  <SamFRP>SC-02B </SamFRP>
+  <SamFRP>SC-02C </SamFRP>
+  <SamFRP>SC-02E </SamFRP>
+  <SamFRP>SC-02F </SamFRP>
+  <SamFRP>SC-03D </SamFRP>
+  <SamFRP>SC-03E </SamFRP>
+  <SamFRP>SC-04 </SamFRP>
+  <SamFRP>SC-04E </SamFRP>
+  <SamFRP>SC-04F </SamFRP>
+  <SamFRP>SC-04G </SamFRP>
+  <SamFRP>SC-05D </SamFRP>
+  <SamFRP>SC-05G </SamFRP>
+  <SamFRP>SC-06D </SamFRP>
+  <SamFRP>SCH-I435 </SamFRP>
+  <SamFRP>SCH-I545 </SamFRP>
+  <SamFRP>SCH-I959 </SamFRP>
+  <SamFRP>SCH-M490 </SamFRP>
+  <SamFRP>SCH-M710 </SamFRP>
+  <SamFRP>SCH-M715 </SamFRP>
+  <SamFRP>SCH-M719 </SamFRP>
+  <SamFRP>SCH-R960 </SamFRP>
+  <SamFRP>SCH-W200 </SamFRP>
+  <SamFRP>SCH-W210 </SamFRP>
+  <SamFRP>SCH-W240 </SamFRP>
+  <SamFRP>SCH-W270 </SamFRP>
+  <SamFRP>SCH-W290 </SamFRP>
+  <SamFRP>SCH-W300 </SamFRP>
+  <SamFRP>SCH-W330 </SamFRP>
+  <SamFRP>SCH-W350 </SamFRP>
+  <SamFRP>SCH-W360 </SamFRP>
+  <SamFRP>SCH-W390 </SamFRP>
+  <SamFRP>SCH-W390M </SamFRP>
+  <SamFRP>SCH-W410 </SamFRP>
+  <SamFRP>SCH-W420 </SamFRP>
+  <SamFRP>SCH-W450 </SamFRP>
+  <SamFRP>SCH-W460 </SamFRP>
+  <SamFRP>SCH-W460R </SamFRP>
+  <SamFRP>SCH-W510 </SamFRP>
+  <SamFRP>SCH-W550 </SamFRP>
+  <SamFRP>SCH-W560 </SamFRP>
+  <SamFRP>SCH-W570 </SamFRP>
+  <SamFRP>SCH-W580 </SamFRP>
+  <SamFRP>SCH-W590 </SamFRP>
+  <SamFRP>SCH-W690 </SamFRP>
+  <SamFRP>SCH-W720 </SamFRP>
+  <SamFRP>SCH-W740 </SamFRP>
+  <SamFRP>SCH-W750 </SamFRP>
+  <SamFRP>SCH-W760 </SamFRP>
+  <SamFRP>SCH-W770 </SamFRP>
+  <SamFRP>SCH-W780 </SamFRP>
+  <SamFRP>SCH-W80 </SamFRP>
+  <SamFRP>SCH-W830 </SamFRP>
+  <SamFRP>SCH-W850 </SamFRP>
+  <SamFRP>SCH-W850I </SamFRP>
+  <SamFRP>SCH-W860 </SamFRP>
+  <SamFRP>SCH-W880 </SamFRP>
+  <SamFRP>SCH-W890 </SamFRP>
+  <SamFRP>SCH-W900 </SamFRP>
+  <SamFRP>SCH-W910 </SamFRP>
+  <SamFRP>SCH-W920 </SamFRP>
+  <SamFRP>SCH-W930 </SamFRP>
+  <SamFRP>SCH-W940  </SamFRP>
+  <SamFRP>SGH-A767 </SamFRP>
+  <SamFRP>SGH-A777 </SamFRP>
+  <SamFRP>SGH-A847 </SamFRP>
+  <SamFRP>SGH-A847D </SamFRP>
+  <SamFRP>SGH-A847M </SamFRP>
+  <SamFRP>SGH-A847R </SamFRP>
+  <SamFRP>SGH-A877 </SamFRP>
+  <SamFRP>SGH-A887 </SamFRP>
+  <SamFRP>SGH-A927 </SamFRP>
+  <SamFRP>SGH-I187 </SamFRP>
+  <SamFRP>SGH-I257 </SamFRP>
+  <SamFRP>SGH-I257M </SamFRP>
+  <SamFRP>SGH-I317 </SamFRP>
+  <SamFRP>SGH-I317M </SamFRP>
+  <SamFRP>SGH-I337 </SamFRP>
+  <SamFRP>SGH-I337M </SamFRP>
+  <SamFRP>SGH-I337Z </SamFRP>
+  <SamFRP>SGH-I407 </SamFRP>
+  <SamFRP>SGH-I437 </SamFRP>
+  <SamFRP>SGH-I437P </SamFRP>
+  <SamFRP>SGH-I437Z </SamFRP>
+  <SamFRP>SGH-I497 </SamFRP>
+  <SamFRP>SGH-I527 </SamFRP>
+  <SamFRP>SGH-I527M </SamFRP>
+  <SamFRP>SGH-I537 </SamFRP>
+  <SamFRP>SGH-I547 </SamFRP>
+  <SamFRP>SGH-I547C </SamFRP>
+  <SamFRP>SGH-I577 </SamFRP>
+  <SamFRP>SGH-I677 </SamFRP>
+  <SamFRP>SGH-I677L </SamFRP>
+  <SamFRP>SGH-I677T </SamFRP>
+  <SamFRP>SGH-I717 </SamFRP>
+  <SamFRP>SGH-I717D </SamFRP>
+  <SamFRP>SGH-I717M </SamFRP>
+  <SamFRP>SGH-I717R </SamFRP>
+  <SamFRP>SGH-I727 </SamFRP>
+  <SamFRP>SGH-I727R </SamFRP>
+  <SamFRP>SGH-I747 </SamFRP>
+  <SamFRP>SGH-I747D </SamFRP>
+  <SamFRP>SGH-I747M </SamFRP>
+  <SamFRP>SGH-I757M </SamFRP>
+  <SamFRP>SGH-I777 </SamFRP>
+  <SamFRP>SGH-I827 </SamFRP>
+  <SamFRP>SGH-I827D </SamFRP>
+  <SamFRP>SGH-I847 </SamFRP>
+  <SamFRP>SGH-I8700 </SamFRP>
+  <SamFRP>SGH-I897 </SamFRP>
+  <SamFRP>SGH-I917 </SamFRP>
+  <SamFRP>SGH-I917R </SamFRP>
+  <SamFRP>SGH-I937 </SamFRP>
+  <SamFRP>SGH-I957 </SamFRP>
+  <SamFRP>SGH-I957D </SamFRP>
+  <SamFRP>SGH-I957M </SamFRP>
+  <SamFRP>SGH-I957R </SamFRP>
+  <SamFRP>SGH-I997 </SamFRP>
+  <SamFRP>SGH-I997R </SamFRP>
+  <SamFRP>SGH-M819N </SamFRP>
+  <SamFRP>SGH-M919 </SamFRP>
+  <SamFRP>SGH-M919M </SamFRP>
+  <SamFRP>SGH-M919V </SamFRP>
+  <SamFRP>SGH-S730M </SamFRP>
+  <SamFRP>SGH-T199 </SamFRP>
+  <SamFRP>SGH-T359 </SamFRP>
+  <SamFRP>SGH-T399 </SamFRP>
+  <SamFRP>SGH-T399N </SamFRP>
+  <SamFRP>SGH-T469 </SamFRP>
+  <SamFRP>SGH-T469V </SamFRP>
+  <SamFRP>SGH-T469W </SamFRP>
+  <SamFRP>SGH-T479 </SamFRP>
+  <SamFRP>SGH-T479B </SamFRP>
+  <SamFRP>SGH-T499 </SamFRP>
+  <SamFRP>SGH-T499V </SamFRP>
+  <SamFRP>SGH-T499Y </SamFRP>
+  <SamFRP>SGH-T589 </SamFRP>
+  <SamFRP>SGH-T589R </SamFRP>
+  <SamFRP>SGH-T589W </SamFRP>
+  <SamFRP>SGH-T599 </SamFRP>
+  <SamFRP>SGH-T599N </SamFRP>
+  <SamFRP>SGH-T599V </SamFRP>
+  <SamFRP>SGH-T669 </SamFRP>
+  <SamFRP>SGH-T679 </SamFRP>
+  <SamFRP>SGH-T679M </SamFRP>
+  <SamFRP>SGH-T699 </SamFRP>
+  <SamFRP>SGH-T759 </SamFRP>
+  <SamFRP>SGH-T769 </SamFRP>
+  <SamFRP>SGH-T779 </SamFRP>
+  <SamFRP>SGH-T839 </SamFRP>
+  <SamFRP>SGH-T879 </SamFRP>
+  <SamFRP>SGH-T889 </SamFRP>
+  <SamFRP>SGH-T889v </SamFRP>
+  <SamFRP>SGH-T899m </SamFRP>
+  <SamFRP>SGH-T939 </SamFRP>
+  <SamFRP>SGH-T959 </SamFRP>
+  <SamFRP>SGH-T959p </SamFRP>
+  <SamFRP>SGH-T959v </SamFRP>
+  <SamFRP>SGH-T989 </SamFRP>
+  <SamFRP>SGH-T989d </SamFRP>
+  <SamFRP>SGH-T999 </SamFRP>
+  <SamFRP>SGH-T999l </SamFRP>
+  <SamFRP>SGH-T999n </SamFRP>
+  <SamFRP>SGH-T999v </SamFRP>
+  <SamFRP>SHV-E110S </SamFRP>
+  <SamFRP>SHV-E120K </SamFRP>
+  <SamFRP>SHV-E120L </SamFRP>
+  <SamFRP>SHV-E120S </SamFRP>
+  <SamFRP>SHV-E140S </SamFRP>
+  <SamFRP>SHV-E150S </SamFRP>
+  <SamFRP>SHV-E160K </SamFRP>
+  <SamFRP>SHV-E160L </SamFRP>
+  <SamFRP>SHV-E160S </SamFRP>
+  <SamFRP>SHV-E170K </SamFRP>
+  <SamFRP>SHV-E170L </SamFRP>
+  <SamFRP>SHV-E170S </SamFRP>
+  <SamFRP>SHV-E210K </SamFRP>
+  <SamFRP>SHV-E250K </SamFRP>
+  <SamFRP>SHV-E250S </SamFRP>
+  <SamFRP>SHV-E270K </SamFRP>
+  <SamFRP>SHV-E270S </SamFRP>
+  <SamFRP>SHV-E275S </SamFRP>
+  <SamFRP>SHV-E300K </SamFRP>
+  <SamFRP>SHV-E300L </SamFRP>
+  <SamFRP>SHV-E300S </SamFRP>
+  <SamFRP>SHV-E330K </SamFRP>
+  <SamFRP>SHV-E330L </SamFRP>
+  <SamFRP>SHV-E330S </SamFRP>
+  <SamFRP>SHV-E470S </SamFRP>
+  <SamFRP>SHV-E500L </SamFRP>
+  <SamFRP>SHV-E500S </SamFRP>
+  <SamFRP>SHW-A110K </SamFRP>
+  <SamFRP>SHW-A110S </SamFRP>
+  <SamFRP>SHW-A130 </SamFRP>
+  <SamFRP>SHW-A160S </SamFRP>
+  <SamFRP>SHW-A180S </SamFRP>
+  <SamFRP>SHW-A210S </SamFRP>
+  <SamFRP>SHW-A220S </SamFRP>
+  <SamFRP>SHW-A250K </SamFRP>
+  <SamFRP>SHW-A250S </SamFRP>
+  <SamFRP>SHW-A300S </SamFRP>
+  <SamFRP>SHW-M100S </SamFRP>
+  <SamFRP>SHW-M110S </SamFRP>
+  <SamFRP>SHW-M130K </SamFRP>
+  <SamFRP>SHW-M180S </SamFRP>
+  <SamFRP>SHW-M190S </SamFRP>
+  <SamFRP>SHW-M250K </SamFRP>
+  <SamFRP>SHW-M250S </SamFRP>
+  <SamFRP>SHW-M340S </SamFRP>
+  <SamFRP>SHW-M350S </SamFRP>
+  <SamFRP>SHW-M440S</SamFRP>
+  <SamFRP>SM-A310F</SamFRP>
+  <SamFRP>SM-A310FD</SamFRP>
+  <SamFRP>SM-A310M</SamFRP>
+  <SamFRP>SM-A310MD</SamFRP>
+  <SamFRP>SM-A310N0 </SamFRP>
+  <SamFRP>SM-A310Y</SamFRP>
+  <SamFRP>SM-A510F</SamFRP>
+  <SamFRP>SM-A510FD</SamFRP>
+  <SamFRP>SM-A510K</SamFRP>
+  <SamFRP>SM-A510L</SamFRP>
+  <SamFRP>SM-A510M</SamFRP>
+  <SamFRP>SM-A510MD </SamFRP>
+  <SamFRP>SM-A510S </SamFRP>
+  <SamFRP>SM-A510Y </SamFRP>
+  <SamFRP>SM-A510Y </SamFRP>
+  <SamFRP>SM-A710F </SamFRP>
+  <SamFRP>SM-A710FD </SamFRP>
+  <SamFRP>SM-A710K </SamFRP>
+  <SamFRP>SM-A710L </SamFRP>
+  <SamFRP>SM-A710M </SamFRP>
+  <SamFRP>SM-A710MD </SamFRP>
+  <SamFRP>SM-A710S </SamFRP>
+  <SamFRP>SM-A710Y </SamFRP>
+  <SamFRP>SM-A800F </SamFRP>
+  <SamFRP>SM-A800I</SamFRP>
+  <SamFRP>SM-A800IZ </SamFRP>
+  <SamFRP>SM-A800S</SamFRP>
+  <SamFRP>SM-A800YZ </SamFRP>
+  <SamFRP>SM-G150NK </SamFRP>
+  <SamFRP>SM-G150NL </SamFRP>
+  <SamFRP>SM-G150NO</SamFRP>
+  <SamFRP>SM-G150NS </SamFRP>
+  <SamFRP>SM-G155S </SamFRP>
+  <SamFRP>SM-G3815</SamFRP>
+  <SamFRP>SM-G3818 </SamFRP>
+  <SamFRP>SM-G3819 </SamFRP>
+  <SamFRP>SM-G386T </SamFRP>
+  <SamFRP>SM-G386T1 </SamFRP>
+  <SamFRP>SM-G386W </SamFRP>
+  <SamFRP>SM-G388F </SamFRP>
+  <SamFRP>SM-G389F </SamFRP>
+  <SamFRP>SM-G5108 </SamFRP>
+  <SamFRP>SM-G5108Q </SamFRP>
+  <SamFRP>SM-G5109 </SamFRP>
+  <SamFRP>SM-G5308W</SamFRP>
+  <SamFRP>SM-G5309W</SamFRP>
+  <SamFRP>SM-G530A</SamFRP>
+  <SamFRP>SM-G530BT </SamFRP>
+  <SamFRP>SM-G530F </SamFRP>
+  <SamFRP>SM-G530FQ </SamFRP>
+  <SamFRP>SM-G530FZ </SamFRP>
+  <SamFRP>SM-G530H </SamFRP>
+  <SamFRP>SM-G530M </SamFRP>
+  <SamFRP>SM-G530P </SamFRP>
+  <SamFRP>SM-G530Y </SamFRP>
+  <SamFRP>SM-G531F </SamFRP>
+  <SamFRP>SM-G531Y </SamFRP>
+  <SamFRP>SM-G5500 </SamFRP>
+  <SamFRP>SM-G550F </SamFRP>
+  <SamFRP>SM-G550FY </SamFRP>
+  <SamFRP>SM-G550T </SamFRP>
+  <SamFRP>SM-G550T1 </SamFRP>
+  <SamFRP>SM-G550T2 </SamFRP>
+  <SamFRP>SM-G5700 </SamFRP>
+  <SamFRP>SM-G570F </SamFRP>
+  <SamFRP>SM-G570M </SamFRP>
+  <SamFRP>SM-G570Y </SamFRP>
+  <SamFRP>SM-G6000 </SamFRP>
+  <SamFRP>SM-G600F</SamFRP>
+  <SamFRP>SM-G600FY </SamFRP>
+  <SamFRP>SM-G600S </SamFRP>
+  <SamFRP>SM-G6100 </SamFRP>
+  <SamFRP>SM-G610F </SamFRP>
+  <SamFRP>SM-G610FD </SamFRP>
+  <SamFRP>SM-G610FZ </SamFRP>
+  <SamFRP>SM-G610K </SamFRP>
+  <SamFRP>SM-G610L </SamFRP>
+  <SamFRP>SM-G610M </SamFRP>
+  <SamFRP>SM-G610S </SamFRP>
+  <SamFRP>SM-G610Y </SamFRP>
+  <SamFRP>SM-G710 </SamFRP>
+  <SamFRP>SM-G7102 </SamFRP>
+  <SamFRP>SM-G7102T </SamFRP>
+  <SamFRP>SM-G7105 </SamFRP>
+  <SamFRP>SM-G7105L</SamFRP>
+  <SamFRP>SM-G710K </SamFRP>
+  <SamFRP>SM-G710L </SamFRP>
+  <SamFRP>SM-G710S </SamFRP>
+  <SamFRP>SM-G7200 </SamFRP>
+  <SamFRP>SM-G7202 </SamFRP>
+  <SamFRP>SM-G720AX </SamFRP>
+  <SamFRP>SM-G720NO </SamFRP>
+  <SamFRP>SM-G730A </SamFRP>
+  <SamFRP>SM-G730M </SamFRP>
+  <SamFRP>SM-G730W8 </SamFRP>
+  <SamFRP>SM-G7508Q </SamFRP>
+  <SamFRP>SM-G7509 </SamFRP>
+  <SamFRP>SM-G750A </SamFRP>
+  <SamFRP>SM-G750F </SamFRP>
+  <SamFRP>SM-G750H </SamFRP>
+  <SamFRP>SM-G800F </SamFRP>
+  <SamFRP>SM-G800H </SamFRP>
+  <SamFRP>SM-G800HQ </SamFRP>
+  <SamFRP>SM-G800I </SamFRP>
+  <SamFRP>SM-G800M </SamFRP>
+  <SamFRP>SM-G800Y</SamFRP>
+  <SamFRP>SM-G850A </SamFRP>
+  <SamFRP>SM-G850F</SamFRP>
+  <SamFRP>SM-G850FQ </SamFRP>
+  <SamFRP>SM-G850K </SamFRP>
+  <SamFRP>SM-G850L </SamFRP>
+  <SamFRP>SM-G850M </SamFRP>
+  <SamFRP>SM-G850S </SamFRP>
+  <SamFRP>SM-G850T </SamFRP>
+  <SamFRP>SM-G850W </SamFRP>
+  <SamFRP>SM-G850Y </SamFRP>
+  <SamFRP>SM-G860P </SamFRP>
+  <SamFRP>SM-G870A </SamFRP>
+  <SamFRP>SM-G870D </SamFRP>
+  <SamFRP>SM-G870F </SamFRP>
+  <SamFRP>SM-G870FO </SamFRP>
+  <SamFRP>SM-G870W </SamFRP>
+  <SamFRP>SM-G890A </SamFRP>
+  <SamFRP>SM-G891A </SamFRP>
+  <SamFRP>SM-G9006V </SamFRP>
+  <SamFRP>SM-G9006W </SamFRP>
+  <SamFRP>SM-G9008V </SamFRP>
+  <SamFRP>SM-G9008W </SamFRP>
+  <SamFRP>SM-G9009D </SamFRP>
+  <SamFRP>SM-G9009W </SamFRP>
+  <SamFRP>SM-G900A </SamFRP>
+  <SamFRP>SM-G900F </SamFRP>
+  <SamFRP>SM-G900FD </SamFRP>
+  <SamFRP>SM-G900FG </SamFRP>
+  <SamFRP>SM-G900H </SamFRP>
+  <SamFRP>SM-G900I </SamFRP>
+  <SamFRP>SM-G900K </SamFRP>
+  <SamFRP>SM-G900L </SamFRP>
+  <SamFRP>SM-G900M </SamFRP>
+  <SamFRP>SM-G900MD </SamFRP>
+  <SamFRP>SM-G900P </SamFRP>
+  <SamFRP>SM-G900S </SamFRP>
+  <SamFRP>SM-G900T </SamFRP>
+  <SamFRP>SM-G900T1 </SamFRP>
+  <SamFRP>SM-G900T2 </SamFRP>
+  <SamFRP>SM-G900T3 </SamFRP>
+  <SamFRP>SM-G900V </SamFRP>
+  <SamFRP>SM-G900W8 </SamFRP>
+  <SamFRP>SM-G901F </SamFRP>
+  <SamFRP>SM-G903F </SamFRP>
+  <SamFRP>SM-G903FD </SamFRP>
+  <SamFRP>SM-G903M </SamFRP>
+  <SamFRP>SM-G903W </SamFRP>
+  <SamFRP>SM-G906K </SamFRP>
+  <SamFRP>SM-G906L </SamFRP>
+  <SamFRP>SM-G906S </SamFRP>
+  <SamFRP>SM-G9105 </SamFRP>
+  <SamFRP>SM-G910S </SamFRP>
+  <SamFRP>SM-G9200 </SamFRP>
+  <SamFRP>SM-G9208 </SamFRP>
+  <SamFRP>SM-G9209 </SamFRP>
+  <SamFRP>SM-G920A</SamFRP>
+  <SamFRP>SM-G920AZ </SamFRP>
+  <SamFRP>SM-G920D </SamFRP>
+  <SamFRP>SM-G920F </SamFRP>
+  <SamFRP>SM-G920FD </SamFRP>
+  <SamFRP>SM-G920FZ </SamFRP>
+  <SamFRP>SM-G920I </SamFRP>
+  <SamFRP>SM-G920K </SamFRP>
+  <SamFRP>SM-G920L </SamFRP>
+  <SamFRP>SM-G920P </SamFRP>
+  <SamFRP>SM-G920R4 </SamFRP>
+  <SamFRP>SM-G920S </SamFRP>
+  <SamFRP>SM-G920T </SamFRP>
+  <SamFRP>SM-G920T1 </SamFRP>
+  <SamFRP>SM-G920W8 </SamFRP>
+  <SamFRP>SM-G9250 </SamFRP>
+  <SamFRP>SM-G9250A </SamFRP>
+  <SamFRP>SM-G9250F </SamFRP>
+  <SamFRP>SM-G9250FQ </SamFRP>
+  <SamFRP>SM-G925I </SamFRP>
+  <SamFRP>SM-G925K </SamFRP>
+  <SamFRP>SM-G925L </SamFRP>
+  <SamFRP>SM-G925P </SamFRP>
+  <SamFRP>SM-G925S </SamFRP>
+  <SamFRP>SM-G925T </SamFRP>
+  <SamFRP>SM-G925T1 </SamFRP>
+  <SamFRP>SM-G925W8 </SamFRP>
+  <SamFRP>SM-G9287 </SamFRP>
+  <SamFRP>SM-G9287C </SamFRP>
+  <SamFRP>SM-G928C </SamFRP>
+  <SamFRP>SM-G928F </SamFRP>
+  <SamFRP>SM-G928G </SamFRP>
+  <SamFRP>SM-G928I </SamFRP>
+  <SamFRP>SM-G928K </SamFRP>
+  <SamFRP>SM-G928L </SamFRP>
+  <SamFRP>SM-G928N0 </SamFRP>
+  <SamFRP>SM-G928NO </SamFRP>
+  <SamFRP>SM-G928P </SamFRP>
+  <SamFRP>SM-G928S </SamFRP>
+  <SamFRP>SM-G928T </SamFRP>
+  <SamFRP>SM-G928W8 </SamFRP>
+  <SamFRP>SM-G9300 </SamFRP>
+  <SamFRP>SM-G9308 </SamFRP>
+  <SamFRP>SM-G930F </SamFRP>
+  <SamFRP>SM-G930FD </SamFRP>
+  <SamFRP>SM-G930K </SamFRP>
+  <SamFRP>SM-G930L </SamFRP>
+  <SamFRP>SM-G930P </SamFRP>
+  <SamFRP>SM-G930S </SamFRP>
+  <SamFRP>SM-G930T </SamFRP>
+  <SamFRP>SM-G930T1 </SamFRP>
+  <SamFRP>SM-G930U </SamFRP>
+  <SamFRP>SM-G930V </SamFRP>
+  <SamFRP>SM-G930W8 </SamFRP>
+  <SamFRP>SM-G9350 </SamFRP>
+  <SamFRP>SM-G935F </SamFRP>
+  <SamFRP>SM-G935FD </SamFRP>
+  <SamFRP>SM-G935K </SamFRP>
+  <SamFRP>SM-G935L </SamFRP>
+  <SamFRP>SM-G935P </SamFRP>
+  <SamFRP>SM-G935S </SamFRP>
+  <SamFRP>SM-G935T </SamFRP>
+  <SamFRP>SM-G935T1 </SamFRP>
+  <SamFRP>SM-G935U </SamFRP>
+  <SamFRP>SM-G935V </SamFRP>
+  <SamFRP>SM-G935W8 </SamFRP>
+  <SamFRP>SM-J100F </SamFRP>
+  <SamFRP>SM-J100FN </SamFRP>
+  <SamFRP>SM-J100G</SamFRP>
+  <SamFRP>SM-J100M </SamFRP>
+  <SamFRP>SM-J100MU </SamFRP>
+  <SamFRP>SM-J100MV </SamFRP>
+  <SamFRP>SM-J100VPP </SamFRP>
+  <SamFRP>SM-J100Y </SamFRP>
+  <SamFRP>SM-J105F</SamFRP>
+  <SamFRP>SM-J105M </SamFRP>
+  <SamFRP>SM-J106B</SamFRP>
+  <SamFRP>SM-J110F </SamFRP>
+  <SamFRP>SM-J110G </SamFRP>
+  <SamFRP>SM-J110M </SamFRP>
+  <SamFRP>SM-J111F</SamFRP>
+  <SamFRP>SM-J120A </SamFRP>
+  <SamFRP>SM-J120AZ </SamFRP>
+  <SamFRP>SM-J120F </SamFRP>
+  <SamFRP>SM-J120FN </SamFRP>
+  <SamFRP>SM-J120G </SamFRP>
+  <SamFRP>SM-J120M </SamFRP>
+  <SamFRP>SM-J120P </SamFRP>
+  <SamFRP>SM-J120W </SamFRP>
+  <SamFRP>SM-J120ZN </SamFRP>
+  <SamFRP>SM-J200BT </SamFRP>
+  <SamFRP>SM-J200F </SamFRP>
+  <SamFRP>SM-J200G </SamFRP>
+  <SamFRP>SM-J200GU </SamFRP>
+  <SamFRP>SM-J200M </SamFRP>
+  <SamFRP>SM-J200Y </SamFRP>
+  <SamFRP>SM-J3110 </SamFRP>
+  <SamFRP>SM-J3119 </SamFRP>
+  <SamFRP>SM-J320A </SamFRP>
+  <SamFRP>SM-J320AZ</SamFRP>
+  <SamFRP>SM-J320G </SamFRP>
+  <SamFRP>SM-J320P </SamFRP>
+  <SamFRP>SM-J320W8 </SamFRP>
+  <SamFRP>SM-J320YZ </SamFRP>
+  <SamFRP>SM-J321AZ </SamFRP>
+  <SamFRP>SM-J500F </SamFRP>
+  <SamFRP>SM-J500FN </SamFRP>
+  <SamFRP>SM-J500G </SamFRP>
+  <SamFRP>SM-J500H </SamFRP>
+  <SamFRP>SM-J500M </SamFRP>
+  <SamFRP>SM-J500NO </SamFRP>
+  <SamFRP>SM-J500Y </SamFRP>
+  <SamFRP>SM-J5108 </SamFRP>
+  <SamFRP>SM-J510F </SamFRP>
+  <SamFRP>SM-J510FN </SamFRP>
+  <SamFRP>SM-J510G </SamFRP>
+  <SamFRP>SM-J510H </SamFRP>
+  <SamFRP>SM-J510K </SamFRP>
+  <SamFRP>SM-J510L </SamFRP>
+  <SamFRP>SM-J510MN </SamFRP>
+  <SamFRP>SM-J510N </SamFRP>
+  <SamFRP>SM-J510S</SamFRP>
+  <SamFRP>SM-J510UN </SamFRP>
+  <SamFRP>SM-J700F </SamFRP>
+  <SamFRP>SM-J700H </SamFRP>
+  <SamFRP>SM-J700M </SamFRP>
+  <SamFRP>SM-J700T </SamFRP>
+  <SamFRP>SM-J700T1 </SamFRP>
+  <SamFRP>SM-J7108 </SamFRP>
+  <SamFRP>SM-J710F </SamFRP>
+  <SamFRP>SM-J710FD </SamFRP>
+  <SamFRP>SM-J710FN </SamFRP>
+  <SamFRP>SM-J710FZ </SamFRP>
+  <SamFRP>SM-J710GN </SamFRP>
+  <SamFRP>SM-J710K </SamFRP>
+  <SamFRP>SM-J710MN </SamFRP>
+  <SamFRP>SM-N750 </SamFRP>
+  <SamFRP>SM-N7500Q </SamFRP>
+  <SamFRP>SM-N7502 </SamFRP>
+  <SamFRP>SM-N7505 </SamFRP>
+  <SamFRP>SM-N7505L </SamFRP>
+  <SamFRP>SM-N900 </SamFRP>
+  <SamFRP>SM-N9000Q </SamFRP>
+  <SamFRP>SM-N9002 </SamFRP>
+  <SamFRP>SM-N9005 </SamFRP>
+  <SamFRP>SM-N900A </SamFRP>
+  <SamFRP>SM-N900K </SamFRP>
+  <SamFRP>SM-N900L </SamFRP>
+  <SamFRP>SM-N900P </SamFRP>
+  <SamFRP>SM-N900S </SamFRP>
+  <SamFRP>SM-N900T </SamFRP>
+  <SamFRP>SM-N900V </SamFRP>
+  <SamFRP>SM-N900W8 </SamFRP>
+  <SamFRP>SM-N910A </SamFRP>
+  <SamFRP>SM-N910C </SamFRP>
+  <SamFRP>SM-N910F </SamFRP>
+  <SamFRP>SM-N910G </SamFRP>
+  <SamFRP>SM-N910H </SamFRP>
+  <SamFRP>SM-N910K </SamFRP>
+  <SamFRP>SM-N910L </SamFRP>
+  <SamFRP>SM-N910P </SamFRP>
+  <SamFRP>SM-N910S </SamFRP>
+  <SamFRP>SM-N910T </SamFRP>
+  <SamFRP>SM-N910U </SamFRP>
+  <SamFRP>SM-N910V </SamFRP>
+  <SamFRP>SM-N910W8 </SamFRP>
+  <SamFRP>SM-N9150 </SamFRP>
+  <SamFRP>SM-N915A </SamFRP>
+  <SamFRP>SM-N915D </SamFRP>
+  <SamFRP>SM-N915F </SamFRP>
+  <SamFRP>SM-N915FY </SamFRP>
+  <SamFRP>SM-N915G </SamFRP>
+  <SamFRP>SM-N915S </SamFRP>
+  <SamFRP>SM-N915T </SamFRP>
+  <SamFRP>SM-N915W8 </SamFRP>
+  <SamFRP>SM-N916L </SamFRP>
+  <SamFRP>SM-N916S </SamFRP>
+  <SamFRP>SM-N9200 </SamFRP>
+  <SamFRP>SM-N9208 </SamFRP>
+  <SamFRP>SM-N920C </SamFRP>
+  <SamFRP>SM-N920CD </SamFRP>
+  <SamFRP>SM-N920F </SamFRP>
+  <SamFRP>SM-N920G </SamFRP>
+  <SamFRP>SM-N920I </SamFRP>
+  <SamFRP>SM-N920K </SamFRP>
+  <SamFRP>SM-N920L </SamFRP>
+  <SamFRP>SM-N920P </SamFRP>
+  <SamFRP>SM-N920S </SamFRP>
+  <SamFRP>SM-N920T </SamFRP>
+  <SamFRP>SM-N920W8 </SamFRP>
+  <SamFRP>SM-N9300 </SamFRP>
+  <SamFRP>SM-N930A </SamFRP>
+  <SamFRP>SM-N930F </SamFRP>
+  <SamFRP>SM-N930FD </SamFRP>
+  <SamFRP>SM-N930K </SamFRP>
+  <SamFRP>SM-N930L </SamFRP>
+  <SamFRP>SM-N930P </SamFRP>
+  <SamFRP>SM-N930R4 </SamFRP>
+  <SamFRP>SM-N930S</SamFRP>
+  <SamFRP>SM-N930T </SamFRP>
+  <SamFRP>SM-N930U </SamFRP>
+  <SamFRP>SM-N930W8 </SamFRP>
+  <SamFRP>SM-N9916K </SamFRP>
+  <SamFRP>SM-P350 </SamFRP>
+  <SamFRP>SM-P350 </SamFRP>
+  <SamFRP>SM-P355 </SamFRP>
+  <SamFRP>SM-P355C </SamFRP>
+  <SamFRP>SM-P355M </SamFRP>
+  <SamFRP>SM-P355Y </SamFRP>
+  <SamFRP>SM-P550 </SamFRP>
+  <SamFRP>SM-P555 </SamFRP>
+  <SamFRP>SM-P555C </SamFRP>
+  <SamFRP>SM-P555K </SamFRP>
+  <SamFRP>SM-P555L </SamFRP>
+  <SamFRP>SM-P555M </SamFRP>
+  <SamFRP>SM-P555S </SamFRP>
+  <SamFRP>SM-P555Y </SamFRP>
+  
+</SamsungModels>
+
+
+
+<imei_Special>
+  <imei>351207450535790</imei>
+  <imei>351207450545260</imei>
+  <imei>351207450545286</imei>
+  <imei>351207450545336</imei>
+  <imei>351207450547027</imei>
+  <imei>351546062436149</imei>
+  <imei>351602064736687</imei>
+  <imei>351603064736685</imei>
+  <imei>351624060015791</imei>
+  <imei>351665063812684</imei>
+  <imei>351665064263218</imei>
+  <imei>351665064994960</imei>
+  <imei>351665065825577</imei>
+  <imei>351666060101113</imei>
+  <imei>351666060201111</imei>
+  <imei>351666060202119</imei>
+  <imei>351666060404012</imei>
+  <imei>351705077100641</imei>
+  <imei>351718070828951</imei>
+  <imei>351811078620007</imei>
+  <imei>351812078620005</imei>
+  <imei>351837000937482</imei>
+  <imei>351837000937490</imei>
+  <imei>351837000937508</imei>
+  <imei>351837000937516</imei>
+  <imei>351837000937524</imei>
+  <imei>351837000937532</imei>
+  <imei>351837000937540</imei>
+  <imei>351837000937557</imei>
+  <imei>351837000937565</imei>
+  <imei>351837000937573</imei>
+  <imei>351837000937581</imei>
+  <imei>351837000937599</imei>
+  <imei>351837000937607</imei>
+  <imei>351837000937615</imei>
+  <imei>351837000937623</imei>
+  <imei>351837000937631</imei>
+  <imei>351837000937649</imei>
+  <imei>351837000937656</imei>
+  <imei>351837000937664</imei>
+  <imei>351837000937672</imei>
+  <imei>351837000937680</imei>
+  <imei>351837000937698</imei>
+  <imei>351837000937706</imei>
+  <imei>351837000937714</imei>
+  <imei>351837000937722</imei>
+  <imei>351837000937730</imei>
+  <imei>351837000937748</imei>
+  <imei>351837000937755</imei>
+  <imei>351837000937763</imei>
+  <imei>351837000937771</imei>
+  <imei>351837000937789</imei>
+  <imei>351837000937797</imei>
+  <imei>351837000937805</imei>
+  <imei>351837000937813</imei>
+  <imei>351837000937821</imei>
+  <imei>351837000937839</imei>
+  <imei>351837000937847</imei>
+  <imei>351837000937854</imei>
+  <imei>351837000937862</imei>
+  <imei>351837000937870</imei>
+  <imei>351837000937888</imei>
+  <imei>351837000937896</imei>
+  <imei>351837000937904</imei>
+  <imei>351837000937912</imei>
+  <imei>351837000937920</imei>
+  <imei>351837000937938</imei>
+  <imei>351837000937946</imei>
+  <imei>351837000937953</imei>
+  <imei>351837000937961</imei>
+  <imei>351837000937979</imei>
+  <imei>351837000937987</imei>
+  <imei>351837000937995</imei>
+  <imei>351837000938001</imei>
+  <imei>351837000938019</imei>
+  <imei>351837000938027</imei>
+  <imei>351837000938035</imei>
+  <imei>351837000938043</imei>
+  <imei>351837000938050</imei>
+  <imei>351837000938068</imei>
+  <imei>351837000938076</imei>
+  <imei>351837000938084</imei>
+  <imei>351837000938092</imei>
+  <imei>351837000938100</imei>
+  <imei>351837000938118</imei>
+  <imei>351837000938126</imei>
+  <imei>351837000938134</imei>
+  <imei>351837000938142</imei>
+  <imei>351837000938159</imei>
+  <imei>351837000938167</imei>
+  <imei>351837000938175</imei>
+  <imei>351837000938183</imei>
+  <imei>351837000938191</imei>
+  <imei>351837000938209</imei>
+  <imei>351837000938217</imei>
+  <imei>351837000938225</imei>
+  <imei>351837000938233</imei>
+  <imei>351837000938241</imei>
+  <imei>351837000938258</imei>
+  <imei>351837000938266</imei>
+  <imei>351837000938274</imei>
+  <imei>351837000938282</imei>
+  <imei>351837000938290</imei>
+  <imei>351837000938308</imei>
+  <imei>351837000938316</imei>
+  <imei>351837000938324</imei>
+  <imei>351837000938332</imei>
+  <imei>351837000938340</imei>
+  <imei>351837000938357</imei>
+  <imei>351837000938365</imei>
+  <imei>351837000938373</imei>
+  <imei>351837000938381</imei>
+  <imei>351837000938399</imei>
+  <imei>351837000938407</imei>
+  <imei>351837000938415</imei>
+  <imei>351837000938423</imei>
+  <imei>351837000938431</imei>
+  <imei>351837000938449</imei>
+  <imei>351837000938456</imei>
+  <imei>351837000938464</imei>
+  <imei>351837000938472</imei>
+  <imei>351837000938480</imei>
+  <imei>351837000938498</imei>
+  <imei>351837000938506</imei>
+  <imei>351837000938514</imei>
+  <imei>351837000938522</imei>
+  <imei>351837000938530</imei>
+  <imei>351837000938548</imei>
+  <imei>351837000938555</imei>
+  <imei>351837000938563</imei>
+  <imei>351837000938571</imei>
+  <imei>351837000938589</imei>
+  <imei>351837000938605</imei>
+  <imei>351837000938613</imei>
+  <imei>351837000938621</imei>
+  <imei>351837000938639</imei>
+  <imei>351837000938647</imei>
+  <imei>351837000938654</imei>
+  <imei>351837000938662</imei>
+  <imei>351837000938670</imei>
+  <imei>351837000938688</imei>
+  <imei>351837000938696</imei>
+  <imei>351837000938704</imei>
+  <imei>351837000938712</imei>
+  <imei>351837000938720</imei>
+  <imei>351837000938738</imei>
+  <imei>351837000938746</imei>
+  <imei>351837000938753</imei>
+  <imei>351837000938761</imei>
+  <imei>351837000938779</imei>
+  <imei>351837000938787</imei>
+  <imei>351837000938795</imei>
+  <imei>351837000938803</imei>
+  <imei>351837000938811</imei>
+  <imei>351837000938829</imei>
+  <imei>351837000938837</imei>
+  <imei>351837000938845</imei>
+  <imei>351837000938852</imei>
+  <imei>351837000938860</imei>
+  <imei>351837000938878</imei>
+  <imei>351837000938886</imei>
+  <imei>351837000938894</imei>
+  <imei>351837000938902</imei>
+  <imei>351837000938910</imei>
+  <imei>351837000938928</imei>
+  <imei>351837000938936</imei>
+  <imei>351837000938944</imei>
+  <imei>351837000938951</imei>
+  <imei>351837000938969</imei>
+  <imei>351837000938977</imei>
+  <imei>351837000938985</imei>
+  <imei>351837000938993</imei>
+  <imei>351837000939009</imei>
+  <imei>351837000939017</imei>
+  <imei>351837000939025</imei>
+  <imei>351837000939033</imei>
+  <imei>351837000939041</imei>
+  <imei>351837000939058</imei>
+  <imei>351837000939066</imei>
+  <imei>351837000939074</imei>
+  <imei>351837000939082</imei>
+  <imei>351837000939090</imei>
+  <imei>351837000939108</imei>
+  <imei>351837000939116</imei>
+  <imei>351837000939124</imei>
+  <imei>351837000939132</imei>
+  <imei>351837000939140</imei>
+  <imei>351837000939157</imei>
+  <imei>351837000939165</imei>
+  <imei>351837000939173</imei>
+  <imei>351837000939181</imei>
+  <imei>351837000939199</imei>
+  <imei>351837000939207</imei>
+  <imei>351837000939215</imei>
+  <imei>351837000939223</imei>
+  <imei>351837000939231</imei>
+  <imei>351837000939249</imei>
+  <imei>351837000939256</imei>
+  <imei>351837000939264</imei>
+  <imei>351837000939272</imei>
+  <imei>351837000939280</imei>
+  <imei>351837000939298</imei>
+  <imei>351837000939306</imei>
+  <imei>351837000939314</imei>
+  <imei>351837000939322</imei>
+  <imei>351837000939330</imei>
+  <imei>351837000939348</imei>
+  <imei>351837000939355</imei>
+  <imei>351837000939363</imei>
+  <imei>351837000939371</imei>
+  <imei>351837000939389</imei>
+  <imei>351837000939397</imei>
+  <imei>351837000939405</imei>
+  <imei>351837000939413</imei>
+  <imei>351837000939421</imei>
+  <imei>351837000939439</imei>
+  <imei>351837000939447</imei>
+  <imei>351837000939454</imei>
+  <imei>351837000939462</imei>
+  <imei>351837000939470</imei>
+  <imei>351885060879888</imei>
+  <imei>351885060879995</imei>
+  <imei>351885060888889</imei>
+  <imei>351896050378773</imei>
+  <imei>351896060112931</imei>
+  <imei>351896060760945</imei>
+  <imei>351966070333635</imei>
+  <imei>352101051101996</imei>
+  <imei>352123051293904</imei>
+  <imei>352123053723593</imei>
+  <imei>352123060272337</imei>
+  <imei>352123060272923</imei>
+  <imei>352123060272998</imei>
+  <imei>352131076553624</imei>
+  <imei>352131077006770</imei>
+  <imei>352131077596481</imei>
+  <imei>352131079045453</imei>
+  <imei>352141070336678</imei>
+  <imei>352168062519052</imei>
+  <imei>352168062519060</imei>
+  <imei>352168062519078</imei>
+  <imei>352168062519086</imei>
+  <imei>352168062519094</imei>
+  <imei>352170061018284</imei>
+  <imei>352171061018282</imei>
+  <imei>352203060596081</imei>
+  <imei>352204060628957</imei>
+  <imei>352204060628965</imei>
+  <imei>352204061118149</imei>
+  <imei>352215060491873</imei>
+  <imei>352215060844824</imei>
+  <imei>352285015635700</imei>
+  <imei>352302073136206</imei>
+  <imei>352303073136204</imei>
+  <imei>352309061266648</imei>
+  <imei>352309061266655</imei>
+  <imei>352310061266646</imei>
+  <imei>352315050191630</imei>
+  <imei>352315050216080</imei>
+  <imei>352315050235916</imei>
+  <imei>352315050357868</imei>
+  <imei>352315050635289</imei>
+  <imei>352315050651278</imei>
+  <imei>352315050812714</imei>
+  <imei>352315051014088</imei>
+  <imei>352315051192504</imei>
+  <imei>352315051499115</imei>
+  <imei>352315051603286</imei>
+  <imei>352315051613491</imei>
+  <imei>352315051641088</imei>
+  <imei>352315052145402</imei>
+  <imei>352315052197825</imei>
+  <imei>352315052230758</imei>
+  <imei>352315052232713</imei>
+  <imei>352315052315294</imei>
+  <imei>352315052327497</imei>
+  <imei>352315052820996</imei>
+  <imei>352315052878762</imei>
+  <imei>352315052890197</imei>
+  <imei>352315053308116</imei>
+  <imei>352315053369621</imei>
+  <imei>352315053502080</imei>
+  <imei>352315053580656</imei>
+  <imei>352315053650574</imei>
+  <imei>352315054066903</imei>
+  <imei>352315054199597</imei>
+  <imei>352315054406505</imei>
+  <imei>352315054424821</imei>
+  <imei>352315054578550</imei>
+  <imei>352315054605007</imei>
+  <imei>352315054686205</imei>
+  <imei>352315054893975</imei>
+  <imei>352315055545194</imei>
+  <imei>352315055639666</imei>
+  <imei>352315055644351</imei>
+  <imei>352315056003102</imei>
+  <imei>352315056164110</imei>
+  <imei>352315056495688</imei>
+  <imei>352315056502749</imei>
+  <imei>352315056551183</imei>
+  <imei>352315056803253</imei>
+  <imei>352315056961697</imei>
+  <imei>352315057088383</imei>
+  <imei>352315057272060</imei>
+  <imei>352315057485860</imei>
+  <imei>352315057542157</imei>
+  <imei>352315057584944</imei>
+  <imei>352315057925220</imei>
+  <imei>352315057926749</imei>
+  <imei>352315057998912</imei>
+  <imei>352315058226123</imei>
+  <imei>352315058289394</imei>
+  <imei>352315058411568</imei>
+  <imei>352315058638855</imei>
+  <imei>352315058676228</imei>
+  <imei>352315058800521</imei>
+  <imei>352315059131447</imei>
+  <imei>352315059451704</imei>
+  <imei>352315059526737</imei>
+  <imei>352315059836755</imei>
+  <imei>352315059918421</imei>
+  <imei>352323060671666</imei>
+  <imei>352323060673555</imei>
+  <imei>352323060673563</imei>
+  <imei>352323060673571</imei>
+  <imei>352323060673589</imei>
+  <imei>352323060673597</imei>
+  <imei>352323060673605</imei>
+  <imei>352323060673613</imei>
+  <imei>352323060673621</imei>
+  <imei>352323060674777</imei>
+  <imei>352323060678000</imei>
+  <imei>352325060942179</imei>
+  <imei>352343050350923</imei>
+  <imei>352343051051348</imei>
+  <imei>352343056257312</imei>
+  <imei>352372054781841</imei>
+  <imei>352419060672157</imei>
+  <imei>352420060672155</imei>
+  <imei>352503060067714</imei>
+  <imei>352503060067722</imei>
+  <imei>352503060067730</imei>
+  <imei>352503060067748</imei>
+  <imei>352503061049091</imei>
+  <imei>352504060067712</imei>
+  <imei>352504060067720</imei>
+  <imei>352504060067738</imei>
+  <imei>352514061523811</imei>
+  <imei>352514062245109</imei>
+  <imei>352522060044143</imei>
+  <imei>352525060737319</imei>
+  <imei>352525061143012</imei>
+  <imei>352525061306023</imei>
+  <imei>352558064833347</imei>
+  <imei>352558067456393</imei>
+  <imei>352558067456401</imei>
+  <imei>352558067456419</imei>
+  <imei>352558067456427</imei>
+  <imei>352558068272500</imei>
+  <imei>352560074851384</imei>
+  <imei>352567070211117</imei>
+  <imei>352567070637592</imei>
+  <imei>352572060472026</imei>
+  <imei>352601547712488</imei>
+  <imei>352607060137557</imei>
+  <imei>352608060137555</imei>
+  <imei>352610060081361</imei>
+  <imei>352622062012179</imei>
+  <imei>352622062012187</imei>
+  <imei>352623060581660</imei>
+  <imei>352623060581777</imei>
+  <imei>352623060581884</imei>
+  <imei>352746069301135</imei>
+  <imei>352816054229938</imei>
+  <imei>352828074870708</imei>
+  <imei>352829060111008</imei>
+  <imei>352829060111107</imei>
+  <imei>352829060111115</imei>
+  <imei>352829060111552</imei>
+  <imei>352829074870706</imei>
+  <imei>352832060301298</imei>
+  <imei>352842072086746</imei>
+  <imei>352842074615492</imei>
+  <imei>352843072086744</imei>
+  <imei>352843074615490</imei>
+  <imei>352848071697391</imei>
+  <imei>352848071779918</imei>
+  <imei>352849071697399</imei>
+  <imei>352849071779916</imei>
+  <imei>352901063266467</imei>
+  <imei>352913061805139</imei>
+  <imei>352956061582158</imei>
+  <imei>352960060227682</imei>
+  <imei>352960060227773</imei>
+  <imei>352960060227781</imei>
+  <imei>352960060227799</imei>
+  <imei>352960060227997</imei>
+  <imei>352960060228003</imei>
+  <imei>352960060328555</imei>
+  <imei>352960061522321</imei>
+  <imei>352966066334786</imei>
+  <imei>352972060236241</imei>
+  <imei>352972060236340</imei>
+  <imei>352972060236357</imei>
+  <imei>352993050570993</imei>
+  <imei>352993050615681</imei>
+  <imei>352993052567369</imei>
+  <imei>352993052688900</imei>
+  <imei>352993052689643</imei>
+  <imei>352993052984267</imei>
+  <imei>352993052985116</imei>
+  <imei>352993052986122</imei>
+  <imei>352993053918454</imei>
+  <imei>352993053918744</imei>
+  <imei>352993053918900</imei>
+  <imei>352993053918926</imei>
+  <imei>352993053919213</imei>
+  <imei>352993053919270</imei>
+  <imei>352993053921185</imei>
+  <imei>352993053921227</imei>
+  <imei>352993053921458</imei>
+  <imei>352993053922795</imei>
+  <imei>352993053923959</imei>
+  <imei>352993053923967</imei>
+  <imei>352993054140330</imei>
+  <imei>352993054140371</imei>
+  <imei>352993054140447</imei>
+  <imei>352993054140587</imei>
+  <imei>352993054142849</imei>
+  <imei>352993054143003</imei>
+  <imei>352993054144530</imei>
+  <imei>352993054145354</imei>
+  <imei>352993054145453</imei>
+  <imei>352993054145768</imei>
+  <imei>352993055032627</imei>
+  <imei>352993055033245</imei>
+  <imei>353002070492607</imei>
+  <imei>353002070498786</imei>
+  <imei>353003070498784</imei>
+  <imei>353004071123157</imei>
+  <imei>353005071123154</imei>
+  <imei>353110060701687</imei>
+  <imei>353110060702347</imei>
+  <imei>353110060702362</imei>
+  <imei>353110060712353</imei>
+  <imei>353110060712361</imei>
+  <imei>353110060712379</imei>
+  <imei>353110060712387</imei>
+  <imei>353110060712395</imei>
+  <imei>353110060712403</imei>
+  <imei>353110060712411</imei>
+  <imei>353110060712429</imei>
+  <imei>353110060712437</imei>
+  <imei>353110060712445</imei>
+  <imei>353110060712452</imei>
+  <imei>353110060712460</imei>
+  <imei>353110060712478</imei>
+  <imei>353110060712486</imei>
+  <imei>353110060712494</imei>
+  <imei>353110060712502</imei>
+  <imei>353110060712510</imei>
+  <imei>353110060712528</imei>
+  <imei>353110060712536</imei>
+  <imei>353110060712544</imei>
+  <imei>353111060673215</imei>
+  <imei>353111061469134</imei>
+  <imei>353121070662777</imei>
+  <imei>353121071985870</imei>
+  <imei>353220060460992</imei>
+  <imei>353220061780380</imei>
+  <imei>353220063101833</imei>
+  <imei>353225060165772</imei>
+  <imei>353225060940018</imei>
+  <imei>353225060999105</imei>
+  <imei>353236071809738</imei>
+  <imei>353237071809736</imei>
+  <imei>353283060131773</imei>
+  <imei>353283060257859</imei>
+  <imei>353283060318578</imei>
+  <imei>353285060748886</imei>
+  <imei>353285060749660</imei>
+  <imei>353285060749678</imei>
+  <imei>353285060749884</imei>
+  <imei>353285060749991</imei>
+  <imei>353285060750007</imei>
+  <imei>353285060755550</imei>
+  <imei>353285060755568</imei>
+  <imei>353285060755576</imei>
+  <imei>353285060755584</imei>
+  <imei>353285060755592</imei>
+  <imei>353285060755600</imei>
+  <imei>353285060755618</imei>
+  <imei>353285060755626</imei>
+  <imei>353285060755634</imei>
+  <imei>353285060755642</imei>
+  <imei>353285060755659</imei>
+  <imei>353285060755667</imei>
+  <imei>353285060755675</imei>
+  <imei>353285060755683</imei>
+  <imei>353285060755691</imei>
+  <imei>353285060755717</imei>
+  <imei>353285060755725</imei>
+  <imei>353285060755733</imei>
+  <imei>353285060755741</imei>
+  <imei>353285060755758</imei>
+  <imei>353285060755766</imei>
+  <imei>353285060755774</imei>
+  <imei>353285060755782</imei>
+  <imei>353285060755790</imei>
+  <imei>353285060755808</imei>
+  <imei>353285060755816</imei>
+  <imei>353285060755824</imei>
+  <imei>353285060755832</imei>
+  <imei>353285060755840</imei>
+  <imei>353285060755857</imei>
+  <imei>353285060755873</imei>
+  <imei>353285060755881</imei>
+  <imei>353285060755907</imei>
+  <imei>353285060755915</imei>
+  <imei>353285060755923</imei>
+  <imei>353285060755931</imei>
+  <imei>353285060755956</imei>
+  <imei>353285060755964</imei>
+  <imei>353285060755972</imei>
+  <imei>353285060755998</imei>
+  <imei>353298068299596</imei>
+  <imei>353299068299594</imei>
+  <imei>353300065955921</imei>
+  <imei>353346051907798</imei>
+  <imei>353346053711974</imei>
+  <imei>353403070009187</imei>
+  <imei>353406071130928</imei>
+  <imei>353406071934576</imei>
+  <imei>353407071130926</imei>
+  <imei>353407071934574</imei>
+  <imei>353425060011832</imei>
+  <imei>353425060011998</imei>
+  <imei>353425060012004</imei>
+  <imei>353506061727987</imei>
+  <imei>353507060147896</imei>
+  <imei>353508077696164</imei>
+  <imei>353508079730938</imei>
+  <imei>353509077696162</imei>
+  <imei>353509079730936</imei>
+  <imei>353517060316748</imei>
+  <imei>353518069023970</imei>
+  <imei>353519069023978</imei>
+  <imei>353522062520933</imei>
+  <imei>353557060623651</imei>
+  <imei>353557060623669</imei>
+  <imei>353557060623883</imei>
+  <imei>353557060623958</imei>
+  <imei>353627050361057</imei>
+  <imei>353627051096033</imei>
+  <imei>353627051156357</imei>
+  <imei>353627051174319</imei>
+  <imei>353627051217423</imei>
+  <imei>353627051217803</imei>
+  <imei>353627051222183</imei>
+  <imei>353627051225921</imei>
+  <imei>353627051893637</imei>
+  <imei>353627051895004</imei>
+  <imei>353627051897091</imei>
+  <imei>353627051932617</imei>
+  <imei>353627053034495</imei>
+  <imei>353627055419637</imei>
+  <imei>353627055419876</imei>
+  <imei>353627055419934</imei>
+  <imei>353627055419983</imei>
+  <imei>353627055433836</imei>
+  <imei>353627055433844</imei>
+  <imei>353627055435880</imei>
+  <imei>353627055435898</imei>
+  <imei>353627055435922</imei>
+  <imei>353627055435930</imei>
+  <imei>353627055435948</imei>
+  <imei>353627055435955</imei>
+  <imei>353627055436094</imei>
+  <imei>353627055437647</imei>
+  <imei>353627055437746</imei>
+  <imei>353627055437761</imei>
+  <imei>353627055443900</imei>
+  <imei>353627055443959</imei>
+  <imei>353627056942587</imei>
+  <imei>353627058616155</imei>
+  <imei>353627059403215</imei>
+  <imei>353627059703416</imei>
+  <imei>353627059703432</imei>
+  <imei>353688061529264</imei>
+  <imei>353690061728177</imei>
+  <imei>353690064773147</imei>
+  <imei>353719059154557</imei>
+  <imei>353745060235127</imei>
+  <imei>353752071042203</imei>
+  <imei>353756070698188</imei>
+  <imei>353769050993305</imei>
+  <imei>353769051065046</imei>
+  <imei>353769051323452</imei>
+  <imei>353769051461377</imei>
+  <imei>353769051461427</imei>
+  <imei>353769051468299</imei>
+  <imei>353769051475336</imei>
+  <imei>353769051614249</imei>
+  <imei>353769051628033</imei>
+  <imei>353769052232702</imei>
+  <imei>353769052385674</imei>
+  <imei>353769052400853</imei>
+  <imei>353769052478792</imei>
+  <imei>353769052478909</imei>
+  <imei>353769052694091</imei>
+  <imei>353769053270826</imei>
+  <imei>353769053271410</imei>
+  <imei>353769053272434</imei>
+  <imei>353769053322320</imei>
+  <imei>353769053340033</imei>
+  <imei>353769054169837</imei>
+  <imei>353769054769719</imei>
+  <imei>353771050693000</imei>
+  <imei>353771050693067</imei>
+  <imei>353771050959476</imei>
+  <imei>353771054726525</imei>
+  <imei>353771054728406</imei>
+  <imei>353771054735708</imei>
+  <imei>353771054739163</imei>
+  <imei>353771057031956</imei>
+  <imei>353771057828245</imei>
+  <imei>353771057956103</imei>
+  <imei>353771057956400</imei>
+  <imei>353771057977943</imei>
+  <imei>353771057977984</imei>
+  <imei>353905070749588</imei>
+  <imei>353905071703576</imei>
+  <imei>353906070749586</imei>
+  <imei>353906071703574</imei>
+  <imei>353910070061141</imei>
+  <imei>353921061121034</imei>
+  <imei>353983060336849</imei>
+  <imei>354035070103799</imei>
+  <imei>354202071573517</imei>
+  <imei>354203071573515</imei>
+  <imei>354204074340100</imei>
+  <imei>354204074481003</imei>
+  <imei>354204074481086</imei>
+  <imei>354205074340107</imei>
+  <imei>354205074481000</imei>
+  <imei>354205074481083</imei>
+  <imei>354205078799233</imei>
+  <imei>354269050164584</imei>
+  <imei>354301060866823</imei>
+  <imei>354316058007842</imei>
+  <imei>354319061948572</imei>
+  <imei>354335075603490</imei>
+  <imei>354335075603656</imei>
+  <imei>354335075604233</imei>
+  <imei>354335075614992</imei>
+  <imei>354350070102604</imei>
+  <imei>354402050630375</imei>
+  <imei>354402053545224</imei>
+  <imei>354402053578795</imei>
+  <imei>354428062074757</imei>
+  <imei>354459070761952</imei>
+  <imei>354460070761950</imei>
+  <imei>354485063061811</imei>
+  <imei>354592060843230</imei>
+  <imei>354592061236095</imei>
+  <imei>354594060264664</imei>
+  <imei>354596060143715</imei>
+  <imei>354666051289528</imei>
+  <imei>354677060138028</imei>
+  <imei>354677060138226</imei>
+  <imei>354678060615338</imei>
+  <imei>354678060615551</imei>
+  <imei>354678060615668</imei>
+  <imei>354678060615676</imei>
+  <imei>354678060615684</imei>
+  <imei>354679060194555</imei>
+  <imei>354679060194654</imei>
+  <imei>354679060194779</imei>
+  <imei>354679060198887</imei>
+  <imei>354679060343533</imei>
+  <imei>354698060939272</imei>
+  <imei>354698064133799</imei>
+  <imei>354699060939270</imei>
+  <imei>354700060123160</imei>
+  <imei>354711051252306</imei>
+  <imei>354728061301576</imei>
+  <imei>354779061169968</imei>
+  <imei>354780061169966</imei>
+  <imei>354780061170717</imei>
+  <imei>354782060366726</imei>
+  <imei>354782060605057</imei>
+  <imei>354796061524513</imei>
+  <imei>354888060302890</imei>
+  <imei>354888060302924</imei>
+  <imei>354888060303492</imei>
+  <imei>354888060303559</imei>
+  <imei>354888060682507</imei>
+  <imei>354898060026795</imei>
+  <imei>354913070130659</imei>
+  <imei>354914070130657</imei>
+  <imei>354960050778635</imei>
+  <imei>355001070272421</imei>
+  <imei>355019070018487</imei>
+  <imei>355024060231017</imei>
+  <imei>355025060390000</imei>
+  <imei>355025060395777</imei>
+  <imei>355025068585692</imei>
+  <imei>355025068700770</imei>
+  <imei>355065059608947</imei>
+  <imei>355072060300852</imei>
+  <imei>355167055711954</imei>
+  <imei>355167056137803</imei>
+  <imei>355167056141425</imei>
+  <imei>355167056630120</imei>
+  <imei>355167058317114</imei>
+  <imei>355210060328784</imei>
+  <imei>355210061415812</imei>
+  <imei>355210062179805</imei>
+  <imei>355210062224619</imei>
+  <imei>355218060027777</imei>
+  <imei>355218060051231</imei>
+  <imei>355218060051652</imei>
+  <imei>355219061104912</imei>
+  <imei>355274072637574</imei>
+  <imei>355275072637571</imei>
+  <imei>355305073414587</imei>
+  <imei>355306073414585</imei>
+  <imei>355310060541194</imei>
+  <imei>355320060471789</imei>
+  <imei>355321060471787</imei>
+  <imei>355323070890915</imei>
+  <imei>355324060515397</imei>
+  <imei>355324060516387</imei>
+  <imei>355324070890913</imei>
+  <imei>355325060515394</imei>
+  <imei>355325060516384</imei>
+  <imei>355354062828118</imei>
+  <imei>355357053350372</imei>
+  <imei>355370060984976</imei>
+  <imei>355371060984974</imei>
+  <imei>355372068474042</imei>
+  <imei>355372068688310</imei>
+  <imei>355372068688328</imei>
+  <imei>355446060277338</imei>
+  <imei>355666078927448</imei>
+  <imei>355676062832173</imei>
+  <imei>355677060467699</imei>
+  <imei>355693060911388</imei>
+  <imei>355694060163020</imei>
+  <imei>355698060333772</imei>
+  <imei>355699060333770</imei>
+  <imei>355799050378460</imei>
+  <imei>355799050650579</imei>
+  <imei>355799050785151</imei>
+  <imei>355799051011425</imei>
+  <imei>355799051483954</imei>
+  <imei>355799051491486</imei>
+  <imei>355799051887576</imei>
+  <imei>355799052474077</imei>
+  <imei>355799054629447</imei>
+  <imei>355799054629603</imei>
+  <imei>355799055086274</imei>
+  <imei>355799055086357</imei>
+  <imei>355799055086480</imei>
+  <imei>355799056584699</imei>
+  <imei>355799056817743</imei>
+  <imei>355799058428309</imei>
+  <imei>355828060141038</imei>
+  <imei>355828060141046</imei>
+  <imei>355829057671011</imei>
+  <imei>355848060707489</imei>
+  <imei>355848060707554</imei>
+  <imei>355849060707487</imei>
+  <imei>355849060707552</imei>
+  <imei>355896054259686</imei>
+  <imei>355965060136244</imei>
+  <imei>356010066993683</imei>
+  <imei>356011060472773</imei>
+  <imei>356021070115825</imei>
+  <imei>356022061012807</imei>
+  <imei>356022061012815</imei>
+  <imei>356022061012823</imei>
+  <imei>356022061012856</imei>
+  <imei>356022061012880</imei>
+  <imei>356022070115823</imei>
+  <imei>356023061012805</imei>
+  <imei>356023061012813</imei>
+  <imei>356023061012821</imei>
+  <imei>356023061012854</imei>
+  <imei>356023061012888</imei>
+  <imei>356095060777471</imei>
+  <imei>356095062611983</imei>
+  <imei>356099068983636</imei>
+  <imei>356126063315769</imei>
+  <imei>356127063315767</imei>
+  <imei>356128060034609</imei>
+  <imei>356145060521120</imei>
+  <imei>356146060634178</imei>
+  <imei>356147060634176</imei>
+  <imei>356205059110044</imei>
+  <imei>356261059555647</imei>
+  <imei>356316062038146</imei>
+  <imei>356317062038144</imei>
+  <imei>356318063677872</imei>
+  <imei>356377062010972</imei>
+  <imei>356524052287520</imei>
+  <imei>356559060365017</imei>
+  <imei>356570064270459</imei>
+  <imei>356571050077270</imei>
+  <imei>356650062371531</imei>
+  <imei>356885061392415</imei>
+  <imei>356886060082338</imei>
+  <imei>356985050164328</imei>
+  <imei>356985051286807</imei>
+  <imei>356985051316612</imei>
+  <imei>356985051875492</imei>
+  <imei>356988050962626</imei>
+  <imei>356988050962667</imei>
+  <imei>356988050966668</imei>
+  <imei>357089052933332</imei>
+  <imei>357089052937960</imei>
+  <imei>357089052937978</imei>
+  <imei>357089052937986</imei>
+  <imei>357090052937968</imei>
+  <imei>357090052937976</imei>
+  <imei>357090052937984</imei>
+  <imei>357138050105888</imei>
+  <imei>357138050985529</imei>
+  <imei>357138051006622</imei>
+  <imei>357138051255062</imei>
+  <imei>357138051297361</imei>
+  <imei>357138052244925</imei>
+  <imei>357138052706162</imei>
+  <imei>357138052971394</imei>
+  <imei>357138052971527</imei>
+  <imei>357138052971634</imei>
+  <imei>357138052971873</imei>
+  <imei>357138052971899</imei>
+  <imei>357138052972707</imei>
+  <imei>357138052972822</imei>
+  <imei>357138052972830</imei>
+  <imei>357138052972954</imei>
+  <imei>357138052973283</imei>
+  <imei>357138052973705</imei>
+  <imei>357138052974273</imei>
+  <imei>357138052975056</imei>
+  <imei>357138052975411</imei>
+  <imei>357138052975452</imei>
+  <imei>357138052977607</imei>
+  <imei>357138052978084</imei>
+  <imei>357138052978209</imei>
+  <imei>357138053025455</imei>
+  <imei>357138053231822</imei>
+  <imei>357138053231905</imei>
+  <imei>357138053232853</imei>
+  <imei>357138053232861</imei>
+  <imei>357138056046847</imei>
+  <imei>357138056124982</imei>
+  <imei>357138056405092</imei>
+  <imei>357138059173788</imei>
+  <imei>357196052587792</imei>
+  <imei>357196052588030</imei>
+  <imei>357196052588071</imei>
+  <imei>357196052589533</imei>
+  <imei>357196052590408</imei>
+  <imei>357196053102484</imei>
+  <imei>357196053102500</imei>
+  <imei>357196053102518</imei>
+  <imei>357196053102542</imei>
+  <imei>357196053105651</imei>
+  <imei>357196053105669</imei>
+  <imei>357196053105701</imei>
+  <imei>357196053105750</imei>
+  <imei>357196053105834</imei>
+  <imei>357196053105842</imei>
+  <imei>357196053105933</imei>
+  <imei>357196053106113</imei>
+  <imei>357196053106238</imei>
+  <imei>357196053106279</imei>
+  <imei>357196053106295</imei>
+  <imei>357196053106469</imei>
+  <imei>357196053106543</imei>
+  <imei>357196053106634</imei>
+  <imei>357196053106683</imei>
+  <imei>357196053109224</imei>
+  <imei>357196053109240</imei>
+  <imei>357196053109299</imei>
+  <imei>357196053109471</imei>
+  <imei>357196053109539</imei>
+  <imei>357196053109703</imei>
+  <imei>357196058984134</imei>
+  <imei>357196059908009</imei>
+  <imei>357213061402614</imei>
+  <imei>357214061402612</imei>
+  <imei>357259063043013</imei>
+  <imei>357318060248999</imei>
+  <imei>357319060248997</imei>
+  <imei>357357050950974</imei>
+  <imei>357357050960759</imei>
+  <imei>357359051633096</imei>
+  <imei>357376051184326</imei>
+  <imei>357376054122612</imei>
+  <imei>357386060432475</imei>
+  <imei>357387060432473</imei>
+  <imei>357392069668713</imei>
+  <imei>357393069668711</imei>
+  <imei>357434052016953</imei>
+  <imei>357460064756989</imei>
+  <imei>357466060472513</imei>
+  <imei>357482003736716</imei>
+  <imei>357504054438551</imei>
+  <imei>357504056981590</imei>
+  <imei>357512054081974</imei>
+  <imei>357515050613021</imei>
+  <imei>357515050613229</imei>
+  <imei>357518050231117</imei>
+  <imei>357518050232222</imei>
+  <imei>357518050235555</imei>
+  <imei>357518054490743</imei>
+  <imei>357558062432147</imei>
+  <imei>357571065140963</imei>
+  <imei>357576006271009</imei>
+  <imei>357633050468575</imei>
+  <imei>357633051881594</imei>
+  <imei>357730060231496</imei>
+  <imei>357730060663490</imei>
+  <imei>357741060316781</imei>
+  <imei>357743061216010</imei>
+  <imei>357746060831994</imei>
+  <imei>357941060522434</imei>
+  <imei>357942060152065</imei>
+  <imei>357942060551076</imei>
+  <imei>357942060568211</imei>
+  <imei>357942060657444</imei>
+  <imei>357945063092592</imei>
+  <imei>357946063092590</imei>
+  <imei>357947061186962</imei>
+  <imei>357948061186960</imei>
+  <imei>358021057834446</imei>
+  <imei>358021057834883</imei>
+  <imei>358021057835005</imei>
+  <imei>358021057835120</imei>
+  <imei>358021057835138</imei>
+  <imei>358021057835146</imei>
+  <imei>358021057835153</imei>
+  <imei>358021057835161</imei>
+  <imei>358021057835997</imei>
+  <imei>358021058392881</imei>
+  <imei>358021058395280</imei>
+  <imei>358021058396999</imei>
+  <imei>358021058397757</imei>
+  <imei>358021058398268</imei>
+  <imei>358021058398292</imei>
+  <imei>358021058398516</imei>
+  <imei>358021058399233</imei>
+  <imei>358021058401088</imei>
+  <imei>358021058401526</imei>
+  <imei>358021058408067</imei>
+  <imei>358021058408653</imei>
+  <imei>358021058409123</imei>
+  <imei>358021058441407</imei>
+  <imei>358021058442819</imei>
+  <imei>358021058458328</imei>
+  <imei>358021058458344</imei>
+  <imei>358021058459888</imei>
+  <imei>358021058459987</imei>
+  <imei>358021058474770</imei>
+  <imei>358021058475173</imei>
+  <imei>358021058475348</imei>
+  <imei>358021058475371</imei>
+  <imei>358021058475454</imei>
+  <imei>358021058475793</imei>
+  <imei>358021058476510</imei>
+  <imei>358021058806666</imei>
+  <imei>358021058807771</imei>
+  <imei>358021058809025</imei>
+  <imei>358021058809074</imei>
+  <imei>358021058809124</imei>
+  <imei>358021058809454</imei>
+  <imei>358021058810247</imei>
+  <imei>358021058810403</imei>
+  <imei>358021058829999</imei>
+  <imei>358021058846167</imei>
+  <imei>358021058847355</imei>
+  <imei>358021059444442</imei>
+  <imei>358021059455554</imei>
+  <imei>358021059466668</imei>
+  <imei>358021059475131</imei>
+  <imei>358021059477772</imei>
+  <imei>358021059478887</imei>
+  <imei>358021059488886</imei>
+  <imei>358021059507941</imei>
+  <imei>358021059539555</imei>
+  <imei>358021059546493</imei>
+  <imei>358021059546576</imei>
+  <imei>358021059546675</imei>
+  <imei>358021059546899</imei>
+  <imei>358021059547764</imei>
+  <imei>358021059547806</imei>
+  <imei>358021059548747</imei>
+  <imei>358021059548762</imei>
+  <imei>358021059548895</imei>
+  <imei>358021059549125</imei>
+  <imei>358021059549257</imei>
+  <imei>358021059549331</imei>
+  <imei>358021059549539</imei>
+  <imei>358021059549984</imei>
+  <imei>358021059549992</imei>
+  <imei>358021059550586</imei>
+  <imei>358021059550826</imei>
+  <imei>358021059550982</imei>
+  <imei>358021059551766</imei>
+  <imei>358021059552202</imei>
+  <imei>358021059552459</imei>
+  <imei>358021059552566</imei>
+  <imei>358021059553028</imei>
+  <imei>358021059555007</imei>
+  <imei>358021059555056</imei>
+  <imei>358021059730881</imei>
+  <imei>358075052351145</imei>
+  <imei>358075052351210</imei>
+  <imei>358075052351228</imei>
+  <imei>358075052352556</imei>
+  <imei>358075053142295</imei>
+  <imei>358075054642053</imei>
+  <imei>358190060770762</imei>
+  <imei>358263050752452</imei>
+  <imei>358314069967043</imei>
+  <imei>358315069967040</imei>
+  <imei>358401050217726</imei>
+  <imei>358402050217724</imei>
+  <imei>358402061678294</imei>
+  <imei>358403061678292</imei>
+  <imei>358414060422533</imei>
+  <imei>358414061508959</imei>
+  <imei>358415060422530</imei>
+  <imei>358415061508956</imei>
+  <imei>358423051222612</imei>
+  <imei>358424051222610</imei>
+  <imei>358488060443376</imei>
+  <imei>358495052627775</imei>
+  <imei>358496050120110</imei>
+  <imei>358496050120128</imei>
+  <imei>358532060586807</imei>
+  <imei>358532061121463</imei>
+  <imei>358534060231103</imei>
+  <imei>358535060313924</imei>
+  <imei>358598052953784</imei>
+  <imei>358599050189462</imei>
+  <imei>358650060353091</imei>
+  <imei>358675050960563</imei>
+  <imei>358836060168544</imei>
+  <imei>358843060202513</imei>
+  <imei>358843060382760</imei>
+  <imei>358843060701852</imei>
+  <imei>358843061358579</imei>
+  <imei>358843061388667</imei>
+  <imei>358870051733503</imei>
+  <imei>358871051733501</imei>
+  <imei>358917050329880</imei>
+  <imei>358918050070805</imei>
+  <imei>358918050608240</imei>
+  <imei>358921055901883</imei>
+  <imei>359050050112343</imei>
+  <imei>359050050122243</imei>
+  <imei>359090052889712</imei>
+  <imei>359092054765007</imei>
+  <imei>359092054765015</imei>
+  <imei>359092054765049</imei>
+  <imei>359092054765056</imei>
+  <imei>359092054765072</imei>
+  <imei>359092054765080</imei>
+  <imei>359092054765098</imei>
+  <imei>359092054765114</imei>
+  <imei>359092054765130</imei>
+  <imei>359092054765197</imei>
+  <imei>359092054765221</imei>
+  <imei>359092054765239</imei>
+  <imei>359092054765247</imei>
+  <imei>359092054765254</imei>
+  <imei>359092054765262</imei>
+  <imei>359092054765270</imei>
+  <imei>359092054765288</imei>
+  <imei>359092054765304</imei>
+  <imei>359092054765338</imei>
+  <imei>359092054765429</imei>
+  <imei>359092054765445</imei>
+  <imei>359092054765551</imei>
+  <imei>359092056221611</imei>
+  <imei>359146060529706</imei>
+  <imei>359146060661913</imei>
+  <imei>359356051225301</imei>
+  <imei>359357052237006</imei>
+  <imei>359358052237004</imei>
+  <imei>359362060124295</imei>
+  <imei>359368057840413</imei>
+  <imei>359368057840421</imei>
+  <imei>359368057840439</imei>
+  <imei>359368057840447</imei>
+  <imei>359368057841551</imei>
+  <imei>359368057844449</imei>
+  <imei>359433050569326</imei>
+  <imei>359436050217622</imei>
+  <imei>359436050217630</imei>
+  <imei>359436050217648</imei>
+  <imei>359436050217655</imei>
+  <imei>359436050217663</imei>
+  <imei>359439051123872</imei>
+  <imei>359439051124367</imei>
+  <imei>359439051124763</imei>
+  <imei>359439051128012</imei>
+  <imei>359444053656747</imei>
+  <imei>359445053656744</imei>
+  <imei>359478052452385</imei>
+  <imei>359514060865208</imei>
+  <imei>359520060416595</imei>
+  <imei>359521060917285</imei>
+  <imei>359521061913572</imei>
+  <imei>359521062182045</imei>
+  <imei>359521066036817</imei>
+  <imei>359522060518883</imei>
+  <imei>359536019154806</imei>
+  <imei>359593065188279</imei>
+  <imei>359627054721128</imei>
+  <imei>359650052180691</imei>
+  <imei>359650052181095</imei>
+  <imei>359650052182093</imei>
+  <imei>359652060392110</imei>
+  <imei>359656060677396</imei>
+  <imei>359657060677394</imei>
+  <imei>359706060408829</imei>
+  <imei>359715060133923</imei>
+  <imei>359787055408974</imei>
+  <imei>359829050165777</imei>
+  <imei>359829050210557</imei>
+  <imei>359829050235943</imei>
+  <imei>359829050615037</imei>
+  <imei>359830052724173</imei>
+  <imei>359831052724171</imei>
+  <imei>359837051381996</imei>
+  <imei>359845063261528</imei>
+  <imei>359845064205185</imei>
+  <imei>359846050769721</imei>
+  <imei>359901051391353</imei>
+  <imei>359901059158895</imei>
+  <imei>359902059158893</imei>
+  <imei>359908050882845</imei>
+  <imei>359908050882852</imei>
+  <imei>359908050882860</imei>
+  <imei>359908050883447</imei>
+  <imei>359908050883553</imei>
+  <imei>359937062576418</imei>
+  <imei>359937064832991</imei>
+  <imei>359937064833015</imei>
+</imei_Special>
+</Tools>
+
+
+ 
